@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURGBP_10_5.21.111_SELL_M15",
+  "features": {
+    "strategy_id": "EURGBP_10_5.21.111_SELL_M15",
+    "trade_count_total": 472,
+    "trade_count_is": 301,
+    "trade_count_oos": 171,
+    "active_months": 57,
+    "trades_per_month": 8.280701754385966,
+    "net_profit_total": 879.2099999999999,
+    "net_profit_is": 948.8600000000001,
+    "net_profit_oos": -69.64999999999995,
+    "win_rate_total": 0.559322033898305,
+    "win_rate_is": 0.6013289036544851,
+    "win_rate_oos": 0.4853801169590643,
+    "avg_win_total": 20.246590909090912,
+    "avg_loss_total": -21.470625,
+    "payoff_ratio_total": 0.9429902906455175,
+    "expectancy_total": 1.8627330508474575,
+    "expectancy_is": 3.1523588039867114,
+    "expectancy_oos": -0.4073099415204675,
+    "profit_factor_total": 1.1968722919731567,
+    "profit_factor_is": 1.3393281812687525,
+    "profit_factor_oos": 0.9582834211787253,
+    "first_trade_time_utc": "2021-07-06T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

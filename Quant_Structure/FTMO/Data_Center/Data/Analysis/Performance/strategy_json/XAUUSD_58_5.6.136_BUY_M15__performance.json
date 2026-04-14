@@ -1,0 +1,28 @@
+{
+  "strategy_id": "XAUUSD_58_5.6.136_BUY_M15",
+  "features": {
+    "strategy_id": "XAUUSD_58_5.6.136_BUY_M15",
+    "trade_count_total": 1190,
+    "trade_count_is": 757,
+    "trade_count_oos": 433,
+    "active_months": 57,
+    "trades_per_month": 20.87719298245614,
+    "net_profit_total": 9992.079999999998,
+    "net_profit_is": 4609.0,
+    "net_profit_oos": 5383.08,
+    "win_rate_total": 0.565546218487395,
+    "win_rate_is": 0.5482166446499339,
+    "win_rate_oos": 0.5958429561200924,
+    "avg_win_total": 85.03352154531946,
+    "avg_loss_total": -91.36456479690521,
+    "payoff_ratio_total": 0.9307057034019801,
+    "expectancy_total": 8.39670588235294,
+    "expectancy_is": 6.088507265521796,
+    "expectancy_oos": 12.432055427251733,
+    "profit_factor_total": 1.2115375984323649,
+    "profit_factor_is": 1.1544464423702652,
+    "profit_factor_oos": 1.309489450608333,
+    "first_trade_time_utc": "2021-07-06T01:05:00+00:00",
+    "last_trade_time_utc": "2026-03-12T01:26:40+00:00"
+  }
+}

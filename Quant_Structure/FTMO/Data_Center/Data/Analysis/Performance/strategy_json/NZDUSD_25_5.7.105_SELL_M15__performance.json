@@ -1,0 +1,28 @@
+{
+  "strategy_id": "NZDUSD_25_5.7.105_SELL_M15",
+  "features": {
+    "strategy_id": "NZDUSD_25_5.7.105_SELL_M15",
+    "trade_count_total": 711,
+    "trade_count_is": 431,
+    "trade_count_oos": 280,
+    "active_months": 57,
+    "trades_per_month": 12.473684210526315,
+    "net_profit_total": 783.9000000000001,
+    "net_profit_is": 860.8999999999999,
+    "net_profit_oos": -77.0,
+    "win_rate_total": 0.5133614627285513,
+    "win_rate_is": 0.5220417633410673,
+    "win_rate_oos": 0.5,
+    "avg_win_total": 23.93753424657534,
+    "avg_loss_total": -23.120058139534883,
+    "payoff_ratio_total": 1.0353578741933431,
+    "expectancy_total": 1.1025316455696204,
+    "expectancy_is": 1.9974477958236656,
+    "expectancy_oos": -0.275,
+    "profit_factor_total": 1.0985628606993323,
+    "profit_factor_is": 1.1697994122403896,
+    "profit_factor_oos": 0.9732935627081021,
+    "first_trade_time_utc": "2021-07-06T05:02:40+00:00",
+    "last_trade_time_utc": "2026-03-11T23:45:00+00:00"
+  }
+}

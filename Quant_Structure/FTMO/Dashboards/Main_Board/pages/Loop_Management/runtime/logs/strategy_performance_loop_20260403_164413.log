@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\Data_Center\Data_Operations\Trades\Strategy_Performance_Loop\Strategy_Performance_Loop.py", line 54, in <module>
+    PROJECT_ROOT = find_project_root(SCRIPT_PATH)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\Data_Center\Data_Operations\Trades\Strategy_Performance_Loop\Strategy_Performance_Loop.py", line 50, in find_project_root
+    raise RuntimeError(f"Projekt-Root nicht gefunden (kein '1.Data_Center' in Parents). Start={start}")
+RuntimeError: Projekt-Root nicht gefunden (kein '1.Data_Center' in Parents). Start=C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\Data_Center\Data_Operations\Trades\Strategy_Performance_Loop\Strategy_Performance_Loop.py

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDCAD_77_3.51.113_SELL_M15",
+  "features": {
+    "strategy_id": "USDCAD_77_3.51.113_SELL_M15",
+    "trade_count_total": 580,
+    "trade_count_is": 365,
+    "trade_count_oos": 215,
+    "active_months": 57,
+    "trades_per_month": 10.175438596491228,
+    "net_profit_total": 468.6699999999999,
+    "net_profit_is": 308.78000000000003,
+    "net_profit_oos": 159.89,
+    "win_rate_total": 0.5913793103448276,
+    "win_rate_is": 0.5945205479452055,
+    "win_rate_oos": 0.586046511627907,
+    "avg_win_total": 13.266239067055393,
+    "avg_loss_total": -17.222151898734175,
+    "payoff_ratio_total": 0.7703008976497565,
+    "expectancy_total": 0.8080517241379309,
+    "expectancy_is": 0.8459726027397261,
+    "expectancy_oos": 0.7436744186046511,
+    "profit_factor_total": 1.1148236619994365,
+    "profit_factor_is": 1.1086675746346133,
+    "profit_factor_oos": 1.1289289918880125,
+    "first_trade_time_utc": "2021-07-06T16:05:40+00:00",
+    "last_trade_time_utc": "2026-03-12T18:08:40+00:00"
+  }
+}

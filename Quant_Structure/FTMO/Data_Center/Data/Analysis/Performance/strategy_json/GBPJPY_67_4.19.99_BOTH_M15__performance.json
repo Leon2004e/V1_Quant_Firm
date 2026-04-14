@@ -1,0 +1,28 @@
+{
+  "strategy_id": "GBPJPY_67_4.19.99_BOTH_M15",
+  "features": {
+    "strategy_id": "GBPJPY_67_4.19.99_BOTH_M15",
+    "trade_count_total": 929,
+    "trade_count_is": 593,
+    "trade_count_oos": 336,
+    "active_months": 57,
+    "trades_per_month": 16.29824561403509,
+    "net_profit_total": 2945.41,
+    "net_profit_is": 1476.0799999999997,
+    "net_profit_oos": 1469.3300000000002,
+    "win_rate_total": 0.5629709364908504,
+    "win_rate_is": 0.5581787521079258,
+    "win_rate_oos": 0.5714285714285714,
+    "avg_win_total": 40.10835564053537,
+    "avg_loss_total": -44.521629629629636,
+    "payoff_ratio_total": 0.9008734849598321,
+    "expectancy_total": 3.1705166846071045,
+    "expectancy_is": 2.489173693086003,
+    "expectancy_oos": 4.373005952380953,
+    "profit_factor_total": 1.1633502040345487,
+    "profit_factor_is": 1.1203348322740747,
+    "profit_factor_oos": 1.2548787299516726,
+    "first_trade_time_utc": "2021-07-05T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDJPY_57_4.8.181_BUY_M15",
+  "features": {
+    "strategy_id": "USDJPY_57_4.8.181_BUY_M15",
+    "trade_count_total": 953,
+    "trade_count_is": 605,
+    "trade_count_oos": 348,
+    "active_months": 57,
+    "trades_per_month": 16.719298245614034,
+    "net_profit_total": 2703.89,
+    "net_profit_is": 2641.2699999999995,
+    "net_profit_oos": 62.61999999999978,
+    "win_rate_total": 0.5498426023084995,
+    "win_rate_is": 0.5735537190082645,
+    "win_rate_oos": 0.5086206896551724,
+    "avg_win_total": 34.72740458015267,
+    "avg_loss_total": -36.11484848484849,
+    "payoff_ratio_total": 0.9615824525671789,
+    "expectancy_total": 2.837240293809024,
+    "expectancy_is": 4.365735537190082,
+    "expectancy_oos": 0.17994252873563155,
+    "profit_factor_total": 1.174520291713757,
+    "profit_factor_is": 1.2873969567980224,
+    "profit_factor_oos": 1.0099350304222625,
+    "first_trade_time_utc": "2021-07-05T23:45:30+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

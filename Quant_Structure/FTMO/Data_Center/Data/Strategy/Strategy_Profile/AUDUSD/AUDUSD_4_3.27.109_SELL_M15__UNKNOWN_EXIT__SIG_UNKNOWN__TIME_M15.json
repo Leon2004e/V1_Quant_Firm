@@ -1,0 +1,95 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "ea_file": "AUDUSD_4_3.27.109_SELL_M15.mq5",
+    "ea_path": "C:/Users/Leon/Desktop/Business_Code/Quant_Structure/FTMO/Data_Center/Data/Strategy/Strategy_EA/AUDJPY/AUDUSD_4_3.27.109_SELL_M15.mq5",
+    "ea_extension": ".mq5"
+  },
+  "identity": {
+    "strategy_id": "3.27.109",
+    "symbol": "AUDUSD",
+    "side": "SELL",
+    "variant_number": 4,
+    "magic_number": null,
+    "timeframe": "M15",
+    "date_block": null
+  },
+  "profile_naming": {
+    "base_name": "AUDUSD_4_3.27.109_SELL_M15",
+    "exit_label": "UNKNOWN_EXIT",
+    "signal_label": "UNKNOWN",
+    "time_label": "M15",
+    "display_name": "AUDUSD_4_3.27.109_SELL_M15__UNKNOWN_EXIT",
+    "extended_display_name": "AUDUSD_4_3.27.109_SELL_M15__UNKNOWN_EXIT__SIG_UNKNOWN__TIME_M15"
+  },
+  "trade_parameters": {
+    "fixed": {
+      "stop_loss_pips": null,
+      "take_profit_pips": null
+    },
+    "dynamic_coef": {
+      "stop_loss_coef": null,
+      "take_profit_coef": null,
+      "trailing_stop_coef": null
+    }
+  },
+  "risk_model": {
+    "type": "unknown"
+  },
+  "classification": {
+    "sl_type": "unknown",
+    "tp_type": "none",
+    "trailing_type": "none",
+    "exit_profile": "unknown_exit_profile",
+    "signal_family": [],
+    "overlap_key": "AUDUSD_SELL"
+  },
+  "money_management": {
+    "enabled": null,
+    "risk_percent": null,
+    "fixed_lot": null,
+    "initial_capital": null,
+    "mm_stoploss_pips": null,
+    "mm_max_lots": null,
+    "mm_lots_if_no_mm": null
+  },
+  "signal_parameters": {
+    "MACD": {
+      "fast": null,
+      "slow": null,
+      "signal": null
+    }
+  },
+  "filters": {
+    "dont_trade_on_weekends": {
+      "enabled": null,
+      "friday_close_time": null,
+      "sunday_open_time": null
+    },
+    "exit_at_end_of_day": {
+      "enabled": null,
+      "time": null
+    },
+    "exit_on_friday": {
+      "enabled": null,
+      "time": null
+    },
+    "limit_time_range": {
+      "enabled": null,
+      "from": null,
+      "to": null
+    },
+    "max_trades_per_day": null
+  },
+  "checks": {
+    "has_defined_stop_loss": false,
+    "has_defined_take_profit_or_exit": false,
+    "uses_aggressive_mm": false,
+    "has_parser_uncertainty": true,
+    "has_tight_stop": false,
+    "weekend_protection": false,
+    "eod_exit": false,
+    "friday_exit": false
+  },
+  "raw_inputs": {}
+}

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "AUDJPY_2_5.20.109_BUY_M15",
+  "features": {
+    "strategy_id": "AUDJPY_2_5.20.109_BUY_M15",
+    "trade_count_total": 664,
+    "trade_count_is": 414,
+    "trade_count_oos": 250,
+    "active_months": 57,
+    "trades_per_month": 11.649122807017545,
+    "net_profit_total": 1776.0600000000002,
+    "net_profit_is": 1132.8400000000004,
+    "net_profit_oos": 643.22,
+    "win_rate_total": 0.5542168674698795,
+    "win_rate_is": 0.5603864734299517,
+    "win_rate_oos": 0.544,
+    "avg_win_total": 25.976766304347823,
+    "avg_loss_total": -26.295236486486484,
+    "payoff_ratio_total": 0.9878886739694345,
+    "expectancy_total": 2.674789156626506,
+    "expectancy_is": 2.7363285024154598,
+    "expectancy_oos": 2.57288,
+    "profit_factor_total": 1.2281859189890265,
+    "profit_factor_is": 1.231925003736301,
+    "profit_factor_oos": 1.221885693785186,
+    "first_trade_time_utc": "2021-07-16T21:59:40+00:00",
+    "last_trade_time_utc": "2026-03-12T16:55:40+00:00"
+  }
+}

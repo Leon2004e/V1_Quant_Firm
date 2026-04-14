@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURGBP_62_3.31.132_BUY_M15",
+  "features": {
+    "strategy_id": "EURGBP_62_3.31.132_BUY_M15",
+    "trade_count_total": 633,
+    "trade_count_is": 384,
+    "trade_count_oos": 249,
+    "active_months": 57,
+    "trades_per_month": 11.105263157894736,
+    "net_profit_total": 472.65,
+    "net_profit_is": 493.43000000000006,
+    "net_profit_oos": -20.779999999999987,
+    "win_rate_total": 0.7235387045813586,
+    "win_rate_is": 0.7291666666666666,
+    "win_rate_oos": 0.714859437751004,
+    "avg_win_total": 8.110851528384279,
+    "avg_loss_total": -18.5264,
+    "payoff_ratio_total": 0.43779965499958323,
+    "expectancy_total": 0.7466824644549762,
+    "expectancy_is": 1.2849739583333335,
+    "expectancy_oos": -0.08345381526104412,
+    "profit_factor_total": 1.1457842399417666,
+    "profit_factor_is": 1.2612440900691984,
+    "profit_factor_oos": 0.9846455092917575,
+    "first_trade_time_utc": "2021-07-06T16:32:40+00:00",
+    "last_trade_time_utc": "2026-03-12T18:04:20+00:00"
+  }
+}

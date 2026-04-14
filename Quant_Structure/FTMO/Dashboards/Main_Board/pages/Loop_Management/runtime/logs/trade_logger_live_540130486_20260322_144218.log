@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Trade_Logger_Loop\Trade_Logger_FTMO_LIVE_540130486.py", line 584, in <module>
+    main()
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Trade_Logger_Loop\Trade_Logger_FTMO_LIVE_540130486.py", line 523, in main
+    exe = find_terminal64(FIXED_MT5_DIR)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Trade_Logger_Loop\Trade_Logger_FTMO_LIVE_540130486.py", line 105, in find_terminal64
+    raise RuntimeError(f"terminal64.exe nicht gefunden unter: {root}")
+RuntimeError: terminal64.exe nicht gefunden unter: C:\Users\Leon\Desktop\MetaTrader 5 - Kopie - Kopie - Kopie (10) - Kopie - Kopie - Kopie - Kopie

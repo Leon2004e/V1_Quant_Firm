@@ -1,0 +1,28 @@
+{
+  "strategy_id": "US500.cash_29_3.32.156_BUY_M15",
+  "features": {
+    "strategy_id": "US500.cash_29_3.32.156_BUY_M15",
+    "trade_count_total": 644,
+    "trade_count_is": 434,
+    "trade_count_oos": 210,
+    "active_months": 57,
+    "trades_per_month": 11.298245614035087,
+    "net_profit_total": 63.95000000000001,
+    "net_profit_is": 30.509999999999998,
+    "net_profit_oos": 33.44,
+    "win_rate_total": 0.7608695652173914,
+    "win_rate_is": 0.7350230414746544,
+    "win_rate_oos": 0.8142857142857143,
+    "avg_win_total": 0.2723469387755102,
+    "avg_loss_total": -0.4929078014184397,
+    "payoff_ratio_total": 0.5525311995301718,
+    "expectancy_total": 0.09930124223602486,
+    "expectancy_is": 0.07029953917050691,
+    "expectancy_oos": 0.15923809523809523,
+    "profit_factor_total": 1.9201438848920862,
+    "profit_factor_is": 1.6298513625103221,
+    "profit_factor_oos": 2.5878442545109213,
+    "first_trade_time_utc": "2021-07-07T04:00:20+00:00",
+    "last_trade_time_utc": "2026-03-10T07:00:40+00:00"
+  }
+}

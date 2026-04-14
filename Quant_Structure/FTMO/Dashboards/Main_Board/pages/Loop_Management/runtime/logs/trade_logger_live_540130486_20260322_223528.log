@@ -1,0 +1,20 @@
+[INFO] terminal64.exe = C:\Users\Leon\Desktop\Terminals\MetaTrader 5 - Kopie - Kopie - Kopie (18) - Kopie - Kopie - Kopie - Kopie\terminal64.exe
+[INFO] ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO
+[INFO] OUTPUT_DIR = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Live_Trades_Data\Strategy_Live_Performance\account_540130486_LIVE
+[WARN] initialize failed (1/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (2/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (3/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (4/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (5/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (6/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (7/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (8/8): (-10005, 'IPC timeout')
+Traceback (most recent call last):
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Trade_Logger_Loop\Trade_Logger_FTMO_LIVE_540130486.py", line 584, in <module>
+    main()
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Trade_Logger_Loop\Trade_Logger_FTMO_LIVE_540130486.py", line 536, in main
+    acc_info = connect_mt5(exe)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Trade_Logger_Loop\Trade_Logger_FTMO_LIVE_540130486.py", line 150, in connect_mt5
+    raise RuntimeError(f"initialize failed: {last_err}")
+RuntimeError: initialize failed: (-10005, 'IPC timeout')

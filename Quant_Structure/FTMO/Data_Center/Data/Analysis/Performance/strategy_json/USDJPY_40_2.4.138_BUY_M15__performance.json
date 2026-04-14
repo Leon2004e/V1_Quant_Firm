@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDJPY_40_2.4.138_BUY_M15",
+  "features": {
+    "strategy_id": "USDJPY_40_2.4.138_BUY_M15",
+    "trade_count_total": 585,
+    "trade_count_is": 382,
+    "trade_count_oos": 203,
+    "active_months": 57,
+    "trades_per_month": 10.263157894736842,
+    "net_profit_total": 2725.01,
+    "net_profit_is": 2261.49,
+    "net_profit_oos": 463.5200000000001,
+    "win_rate_total": 0.5196581196581197,
+    "win_rate_is": 0.5392670157068062,
+    "win_rate_oos": 0.4827586206896552,
+    "avg_win_total": 35.79519736842105,
+    "avg_loss_total": -29.02750889679715,
+    "payoff_ratio_total": 1.2331474084009542,
+    "expectancy_total": 4.658136752136753,
+    "expectancy_is": 5.920130890052356,
+    "expectancy_oos": 2.2833497536945817,
+    "profit_factor_total": 1.3340811820423135,
+    "profit_factor_is": 1.4458527526082947,
+    "profit_factor_oos": 1.150276386389794,
+    "first_trade_time_utc": "2021-07-12T23:45:30+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

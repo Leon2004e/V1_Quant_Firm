@@ -1,0 +1,657 @@
+{
+  "strategy_id": "NZDUSD_25_5.7.105_SELL_M15",
+  "summary": {
+    "strategy_id": "NZDUSD_25_5.7.105_SELL_M15",
+    "symbol_mode": "NZDUSD",
+    "side_mode": null,
+    "side_mix": "UNKNOWN",
+    "trade_count": 711,
+    "buy_trade_count": 0,
+    "sell_trade_count": 0,
+    "session_preferred_regimes": null,
+    "session_forbidden_regimes": "NY_PM",
+    "session_regime_dependency_score": 0.812722284320699,
+    "session_regime_confidence": 1.0,
+    "volatility_preferred_regimes": null,
+    "volatility_forbidden_regimes": "UNKNOWN",
+    "volatility_regime_dependency_score": 0.4295502265443697,
+    "volatility_regime_confidence": 1.0,
+    "trend_preferred_regimes": "DOWNTREND|UPTREND",
+    "trend_forbidden_regimes": "RANGE|UNKNOWN",
+    "trend_regime_dependency_score": 0.573512154233026,
+    "trend_regime_confidence": 1.0,
+    "composite_preferred_regimes": "ASIA|HIGH_VOL|UPTREND|ASIA|LOW_VOL|UPTREND|ASIA|MID_VOL|DOWNTREND|ASIA|MID_VOL|UPTREND|LONDON|HIGH_VOL|DOWNTREND|LONDON|HIGH_VOL|UPTREND|NEW_YORK|HIGH_VOL|DOWNTREND",
+    "composite_forbidden_regimes": "ASIA|LOW_VOL|RANGE|ASIA|MID_VOL|RANGE|ASIA|UNKNOWN|UNKNOWN|LONDON|HIGH_VOL|RANGE|LONDON|MID_VOL|DOWNTREND|LONDON|UNKNOWN|UNKNOWN|NEW_YORK|HIGH_VOL|RANGE|NY_PM|HIGH_VOL|RANGE",
+    "composite_regime_dependency_score": 0.20714359344397482,
+    "composite_regime_confidence": 0.7209302325581395
+  },
+  "overall": {
+    "session_regimes": {
+      "ASIA": {
+        "trade_count": 387,
+        "net_profit": 799.8000000000002,
+        "avg_trade": 2.0666666666666673,
+        "median_trade": 6.1,
+        "std_trade": 29.338574759383203,
+        "win_rate": 0.537467700258398,
+        "loss_rate": 0.4625322997416021,
+        "profit_factor": 1.1716972221029582,
+        "expectancy": 2.0666666666666673
+      },
+      "LONDON": {
+        "trade_count": 164,
+        "net_profit": 40.000000000000114,
+        "avg_trade": 0.24390243902439093,
+        "median_trade": 2.6,
+        "std_trade": 27.40684208854601,
+        "win_rate": 0.5121951219512195,
+        "loss_rate": 0.4878048780487805,
+        "profit_factor": 1.0207296849087895,
+        "expectancy": 0.24390243902439093
+      },
+      "NEW_YORK": {
+        "trade_count": 99,
+        "net_profit": 144.3,
+        "avg_trade": 1.4575757575757577,
+        "median_trade": 2.2,
+        "std_trade": 25.37915379054834,
+        "win_rate": 0.5252525252525253,
+        "loss_rate": 0.47474747474747475,
+        "profit_factor": 1.1611210361768642,
+        "expectancy": 1.4575757575757577
+      },
+      "NY_PM": {
+        "trade_count": 61,
+        "net_profit": -200.20000000000005,
+        "avg_trade": -3.281967213114755,
+        "median_trade": -3.8,
+        "std_trade": 15.987052138076418,
+        "win_rate": 0.3442622950819672,
+        "loss_rate": 0.6229508196721312,
+        "profit_factor": 0.573951904660566,
+        "expectancy": -3.281967213114755
+      }
+    },
+    "volatility_regimes": {
+      "HIGH_VOL": {
+        "trade_count": 343,
+        "net_profit": 388.70000000000016,
+        "avg_trade": 1.133236151603499,
+        "median_trade": 0.3,
+        "std_trade": 28.518454121175875,
+        "win_rate": 0.5072886297376094,
+        "loss_rate": 0.4897959183673469,
+        "profit_factor": 1.1014591109602982,
+        "expectancy": 1.133236151603499
+      },
+      "LOW_VOL": {
+        "trade_count": 77,
+        "net_profit": 150.4,
+        "avg_trade": 1.9532467532467532,
+        "median_trade": 6.9,
+        "std_trade": 25.818432748388283,
+        "win_rate": 0.5454545454545454,
+        "loss_rate": 0.45454545454545453,
+        "profit_factor": 1.1886839794254174,
+        "expectancy": 1.9532467532467532
+      },
+      "MID_VOL": {
+        "trade_count": 212,
+        "net_profit": 365.79999999999995,
+        "avg_trade": 1.7254716981132074,
+        "median_trade": 4.05,
+        "std_trade": 26.58581227776179,
+        "win_rate": 0.5235849056603774,
+        "loss_rate": 0.47641509433962265,
+        "profit_factor": 1.1583070065348167,
+        "expectancy": 1.7254716981132074
+      },
+      "UNKNOWN": {
+        "trade_count": 79,
+        "net_profit": -121.0,
+        "avg_trade": -1.5316455696202531,
+        "median_trade": -1.0,
+        "std_trade": 26.83649230157056,
+        "win_rate": 0.4810126582278481,
+        "loss_rate": 0.5063291139240507,
+        "profit_factor": 0.8807176656151421,
+        "expectancy": -1.5316455696202531
+      }
+    },
+    "trend_regimes": {
+      "DOWNTREND": {
+        "trade_count": 227,
+        "net_profit": 684.2,
+        "avg_trade": 3.0140969162995597,
+        "median_trade": 2.2,
+        "std_trade": 26.088333174644823,
+        "win_rate": 0.5242290748898678,
+        "loss_rate": 0.47577092511013214,
+        "profit_factor": 1.3219461697722568,
+        "expectancy": 3.0140969162995597
+      },
+      "RANGE": {
+        "trade_count": 237,
+        "net_profit": -280.5999999999999,
+        "avg_trade": -1.183966244725738,
+        "median_trade": 0.4,
+        "std_trade": 28.073349678446768,
+        "win_rate": 0.510548523206751,
+        "loss_rate": 0.48523206751054854,
+        "profit_factor": 0.9052635132853913,
+        "expectancy": -1.183966244725738
+      },
+      "UNKNOWN": {
+        "trade_count": 76,
+        "net_profit": -128.5,
+        "avg_trade": -1.6907894736842106,
+        "median_trade": -2.0,
+        "std_trade": 26.83808327796692,
+        "win_rate": 0.47368421052631576,
+        "loss_rate": 0.5131578947368421,
+        "profit_factor": 0.8688641698132462,
+        "expectancy": -1.6907894736842106
+      },
+      "UPTREND": {
+        "trade_count": 171,
+        "net_profit": 508.8,
+        "avg_trade": 2.975438596491228,
+        "median_trade": 3.9,
+        "std_trade": 28.462054909290064,
+        "win_rate": 0.52046783625731,
+        "loss_rate": 0.47953216374269003,
+        "profit_factor": 1.269734400678577,
+        "expectancy": 2.975438596491228
+      }
+    },
+    "composite_regimes": {
+      "ASIA|HIGH_VOL|DOWNTREND": {
+        "trade_count": 61,
+        "net_profit": 127.60000000000002,
+        "avg_trade": 2.091803278688525,
+        "median_trade": 1.7000000000000002,
+        "std_trade": 30.342771215354116,
+        "win_rate": 0.5081967213114754,
+        "loss_rate": 0.4918032786885246,
+        "profit_factor": 1.1721997300944669,
+        "expectancy": 2.091803278688525
+      },
+      "ASIA|HIGH_VOL|RANGE": {
+        "trade_count": 52,
+        "net_profit": 16.2,
+        "avg_trade": 0.31153846153846154,
+        "median_trade": 1.9000000000000001,
+        "std_trade": 33.76821021487723,
+        "win_rate": 0.5384615384615384,
+        "loss_rate": 0.46153846153846156,
+        "profit_factor": 1.0226510067114094,
+        "expectancy": 0.31153846153846154
+      },
+      "ASIA|HIGH_VOL|UPTREND": {
+        "trade_count": 43,
+        "net_profit": 110.39999999999998,
+        "avg_trade": 2.5674418604651157,
+        "median_trade": -2.0,
+        "std_trade": 29.75110819008606,
+        "win_rate": 0.4883720930232558,
+        "loss_rate": 0.5116279069767442,
+        "profit_factor": 1.222715352027436,
+        "expectancy": 2.5674418604651157
+      },
+      "ASIA|LOW_VOL|DOWNTREND": {
+        "trade_count": 21,
+        "net_profit": 19.799999999999994,
+        "avg_trade": 0.9428571428571425,
+        "median_trade": -4.9,
+        "std_trade": 28.497974865393005,
+        "win_rate": 0.47619047619047616,
+        "loss_rate": 0.5238095238095238,
+        "profit_factor": 1.0757749712973592,
+        "expectancy": 0.9428571428571425
+      },
+      "ASIA|LOW_VOL|RANGE": {
+        "trade_count": 18,
+        "net_profit": -8.999999999999995,
+        "avg_trade": -0.4999999999999997,
+        "median_trade": -7.1,
+        "std_trade": 24.67706722969372,
+        "win_rate": 0.4444444444444444,
+        "loss_rate": 0.5555555555555556,
+        "profit_factor": 0.9552683896620277,
+        "expectancy": -0.4999999999999997
+      },
+      "ASIA|LOW_VOL|UPTREND": {
+        "trade_count": 16,
+        "net_profit": 115.70000000000002,
+        "avg_trade": 7.231250000000001,
+        "median_trade": 15.3,
+        "std_trade": 25.317285761576684,
+        "win_rate": 0.625,
+        "loss_rate": 0.375,
+        "profit_factor": 1.8968992248062015,
+        "expectancy": 7.231250000000001
+      },
+      "ASIA|MID_VOL|DOWNTREND": {
+        "trade_count": 44,
+        "net_profit": 401.9,
+        "avg_trade": 9.134090909090908,
+        "median_trade": 16.15,
+        "std_trade": 24.673815733997532,
+        "win_rate": 0.6136363636363636,
+        "loss_rate": 0.38636363636363635,
+        "profit_factor": 2.3414552736982643,
+        "expectancy": 9.134090909090908
+      },
+      "ASIA|MID_VOL|RANGE": {
+        "trade_count": 56,
+        "net_profit": -83.89999999999998,
+        "avg_trade": -1.4982142857142853,
+        "median_trade": 7.2,
+        "std_trade": 28.61554244602956,
+        "win_rate": 0.5714285714285714,
+        "loss_rate": 0.42857142857142855,
+        "profit_factor": 0.8911943976137985,
+        "expectancy": -1.4982142857142853
+      },
+      "ASIA|MID_VOL|UPTREND": {
+        "trade_count": 39,
+        "net_profit": 287.2000000000001,
+        "avg_trade": 7.364102564102566,
+        "median_trade": 21.7,
+        "std_trade": 29.766260369926492,
+        "win_rate": 0.6153846153846154,
+        "loss_rate": 0.38461538461538464,
+        "profit_factor": 1.696073679108095,
+        "expectancy": 7.364102564102566
+      },
+      "ASIA|UNKNOWN|UNKNOWN": {
+        "trade_count": 36,
+        "net_profit": -151.60000000000002,
+        "avg_trade": -4.211111111111112,
+        "median_trade": -6.800000000000001,
+        "std_trade": 30.744446911158054,
+        "win_rate": 0.4722222222222222,
+        "loss_rate": 0.5277777777777778,
+        "profit_factor": 0.7460636515912898,
+        "expectancy": -4.211111111111112
+      },
+      "ASIA|UNKNOWN|UPTREND": {
+        "trade_count": 1,
+        "net_profit": -34.5,
+        "avg_trade": -34.5,
+        "median_trade": -34.5,
+        "std_trade": null,
+        "win_rate": 0.0,
+        "loss_rate": 1.0,
+        "profit_factor": 0.0,
+        "expectancy": -34.5
+      },
+      "LONDON|HIGH_VOL|DOWNTREND": {
+        "trade_count": 27,
+        "net_profit": 189.4,
+        "avg_trade": 7.014814814814815,
+        "median_trade": 7.2,
+        "std_trade": 24.545902113006775,
+        "win_rate": 0.5925925925925926,
+        "loss_rate": 0.4074074074074074,
+        "profit_factor": 2.0878805284319357,
+        "expectancy": 7.014814814814815
+      },
+      "LONDON|HIGH_VOL|RANGE": {
+        "trade_count": 35,
+        "net_profit": -130.5,
+        "avg_trade": -3.7285714285714286,
+        "median_trade": -8.7,
+        "std_trade": 30.225773686673154,
+        "win_rate": 0.42857142857142855,
+        "loss_rate": 0.5714285714285714,
+        "profit_factor": 0.7576151560178307,
+        "expectancy": -3.7285714285714286
+      },
+      "LONDON|HIGH_VOL|UPTREND": {
+        "trade_count": 24,
+        "net_profit": 97.10000000000001,
+        "avg_trade": 4.045833333333333,
+        "median_trade": 8.6,
+        "std_trade": 31.904149643780723,
+        "win_rate": 0.625,
+        "loss_rate": 0.375,
+        "profit_factor": 1.3398669933496679,
+        "expectancy": 4.045833333333333
+      },
+      "LONDON|LOW_VOL|DOWNTREND": {
+        "trade_count": 3,
+        "net_profit": -9.1,
+        "avg_trade": -3.033333333333333,
+        "median_trade": 6.9,
+        "std_trade": 18.165993871333697,
+        "win_rate": 0.6666666666666666,
+        "loss_rate": 0.3333333333333333,
+        "profit_factor": 0.6208333333333333,
+        "expectancy": -3.033333333333333
+      },
+      "LONDON|LOW_VOL|RANGE": {
+        "trade_count": 3,
+        "net_profit": 29.5,
+        "avg_trade": 9.833333333333334,
+        "median_trade": 7.1,
+        "std_trade": 8.823453594445507,
+        "win_rate": 1.0,
+        "loss_rate": 0.0,
+        "profit_factor": null,
+        "expectancy": 9.833333333333334
+      },
+      "LONDON|LOW_VOL|UPTREND": {
+        "trade_count": 3,
+        "net_profit": 13.000000000000004,
+        "avg_trade": 4.333333333333335,
+        "median_trade": 19.2,
+        "std_trade": 45.557143603756955,
+        "win_rate": 0.6666666666666666,
+        "loss_rate": 0.3333333333333333,
+        "profit_factor": 1.277777777777778,
+        "expectancy": 4.333333333333335
+      },
+      "LONDON|MID_VOL|DOWNTREND": {
+        "trade_count": 15,
+        "net_profit": -35.3,
+        "avg_trade": -2.353333333333333,
+        "median_trade": -7.3,
+        "std_trade": 24.519900566876775,
+        "win_rate": 0.4,
+        "loss_rate": 0.6,
+        "profit_factor": 0.7925969447708578,
+        "expectancy": -2.353333333333333
+      },
+      "LONDON|MID_VOL|RANGE": {
+        "trade_count": 17,
+        "net_profit": 1.700000000000017,
+        "avg_trade": 0.100000000000001,
+        "median_trade": -1.7,
+        "std_trade": 29.744180103005025,
+        "win_rate": 0.47058823529411764,
+        "loss_rate": 0.5294117647058824,
+        "profit_factor": 1.0075723830734968,
+        "expectancy": 0.100000000000001
+      },
+      "LONDON|MID_VOL|UPTREND": {
+        "trade_count": 12,
+        "net_profit": -54.0,
+        "avg_trade": -4.5,
+        "median_trade": -10.700000000000001,
+        "std_trade": 23.593681742827215,
+        "win_rate": 0.4166666666666667,
+        "loss_rate": 0.5833333333333334,
+        "profit_factor": 0.6329027872195785,
+        "expectancy": -4.5
+      },
+      "LONDON|UNKNOWN|RANGE": {
+        "trade_count": 1,
+        "net_profit": 16.0,
+        "avg_trade": 16.0,
+        "median_trade": 16.0,
+        "std_trade": null,
+        "win_rate": 1.0,
+        "loss_rate": 0.0,
+        "profit_factor": null,
+        "expectancy": 16.0
+      },
+      "LONDON|UNKNOWN|UNKNOWN": {
+        "trade_count": 23,
+        "net_profit": -103.8,
+        "avg_trade": -4.51304347826087,
+        "median_trade": -7.5,
+        "std_trade": 25.526302020889354,
+        "win_rate": 0.43478260869565216,
+        "loss_rate": 0.5652173913043478,
+        "profit_factor": 0.6744040150564617,
+        "expectancy": -4.51304347826087
+      },
+      "LONDON|UNKNOWN|UPTREND": {
+        "trade_count": 1,
+        "net_profit": 26.0,
+        "avg_trade": 26.0,
+        "median_trade": 26.0,
+        "std_trade": null,
+        "win_rate": 1.0,
+        "loss_rate": 0.0,
+        "profit_factor": null,
+        "expectancy": 26.0
+      },
+      "NEW_YORK|HIGH_VOL|DOWNTREND": {
+        "trade_count": 25,
+        "net_profit": 162.7,
+        "avg_trade": 6.507999999999999,
+        "median_trade": 6.3,
+        "std_trade": 25.05364111927313,
+        "win_rate": 0.64,
+        "loss_rate": 0.36,
+        "profit_factor": 2.1713462922966165,
+        "expectancy": 6.507999999999999
+      },
+      "NEW_YORK|HIGH_VOL|RANGE": {
+        "trade_count": 25,
+        "net_profit": -156.90000000000003,
+        "avg_trade": -6.276000000000002,
+        "median_trade": -3.5,
+        "std_trade": 24.969369235124866,
+        "win_rate": 0.44,
+        "loss_rate": 0.56,
+        "profit_factor": 0.5003184713375796,
+        "expectancy": -6.276000000000002
+      },
+      "NEW_YORK|HIGH_VOL|UPTREND": {
+        "trade_count": 13,
+        "net_profit": 77.9,
+        "avg_trade": 5.992307692307692,
+        "median_trade": -3.0,
+        "std_trade": 29.08021840640305,
+        "win_rate": 0.46153846153846156,
+        "loss_rate": 0.5384615384615384,
+        "profit_factor": 1.6624149659863947,
+        "expectancy": 5.992307692307692
+      },
+      "NEW_YORK|LOW_VOL|DOWNTREND": {
+        "trade_count": 2,
+        "net_profit": 48.099999999999994,
+        "avg_trade": 24.049999999999997,
+        "median_trade": 24.049999999999997,
+        "std_trade": 6.576093065034892,
+        "win_rate": 1.0,
+        "loss_rate": 0.0,
+        "profit_factor": null,
+        "expectancy": 24.049999999999997
+      },
+      "NEW_YORK|LOW_VOL|RANGE": {
+        "trade_count": 2,
+        "net_profit": 48.5,
+        "avg_trade": 24.25,
+        "median_trade": 24.25,
+        "std_trade": 1.6263455967290572,
+        "win_rate": 1.0,
+        "loss_rate": 0.0,
+        "profit_factor": null,
+        "expectancy": 24.25
+      },
+      "NEW_YORK|LOW_VOL|UPTREND": {
+        "trade_count": 2,
+        "net_profit": -45.89999999999999,
+        "avg_trade": -22.949999999999996,
+        "median_trade": -22.949999999999996,
+        "std_trade": 63.144635559958694,
+        "win_rate": 0.5,
+        "loss_rate": 0.5,
+        "profit_factor": 0.3210059171597634,
+        "expectancy": -22.949999999999996
+      },
+      "NEW_YORK|MID_VOL|DOWNTREND": {
+        "trade_count": 9,
+        "net_profit": -96.99999999999999,
+        "avg_trade": -10.777777777777777,
+        "median_trade": -9.2,
+        "std_trade": 20.639269474582775,
+        "win_rate": 0.2222222222222222,
+        "loss_rate": 0.7777777777777778,
+        "profit_factor": 0.22337870296236986,
+        "expectancy": -10.777777777777777
+      },
+      "NEW_YORK|MID_VOL|RANGE": {
+        "trade_count": 7,
+        "net_profit": 21.200000000000003,
+        "avg_trade": 3.028571428571429,
+        "median_trade": 6.2,
+        "std_trade": 25.498347285377427,
+        "win_rate": 0.5714285714285714,
+        "loss_rate": 0.42857142857142855,
+        "profit_factor": 1.3402889245585874,
+        "expectancy": 3.028571428571429
+      },
+      "NEW_YORK|MID_VOL|UPTREND": {
+        "trade_count": 2,
+        "net_profit": 3.4000000000000004,
+        "avg_trade": 1.7000000000000002,
+        "median_trade": 1.7000000000000002,
+        "std_trade": 23.05168106668145,
+        "win_rate": 0.5,
+        "loss_rate": 0.5,
+        "profit_factor": 1.2328767123287672,
+        "expectancy": 1.7000000000000002
+      },
+      "NEW_YORK|UNKNOWN|UNKNOWN": {
+        "trade_count": 12,
+        "net_profit": 82.3,
+        "avg_trade": 6.858333333333333,
+        "median_trade": 8.55,
+        "std_trade": 18.356938660073386,
+        "win_rate": 0.5833333333333334,
+        "loss_rate": 0.4166666666666667,
+        "profit_factor": 2.4775583482944343,
+        "expectancy": 6.858333333333333
+      },
+      "NY_PM|HIGH_VOL|DOWNTREND": {
+        "trade_count": 13,
+        "net_profit": -71.5,
+        "avg_trade": -5.5,
+        "median_trade": -2.2,
+        "std_trade": 20.20420748260124,
+        "win_rate": 0.38461538461538464,
+        "loss_rate": 0.6153846153846154,
+        "profit_factor": 0.4607843137254902,
+        "expectancy": -5.5
+      },
+      "NY_PM|HIGH_VOL|RANGE": {
+        "trade_count": 17,
+        "net_profit": -4.9,
+        "avg_trade": -0.2882352941176471,
+        "median_trade": 0.0,
+        "std_trade": 17.41547021877895,
+        "win_rate": 0.47058823529411764,
+        "loss_rate": 0.47058823529411764,
+        "profit_factor": 0.9539040451552209,
+        "expectancy": -0.2882352941176471
+      },
+      "NY_PM|HIGH_VOL|UPTREND": {
+        "trade_count": 8,
+        "net_profit": -28.8,
+        "avg_trade": -3.6,
+        "median_trade": -11.100000000000001,
+        "std_trade": 17.65146695643979,
+        "win_rate": 0.25,
+        "loss_rate": 0.75,
+        "profit_factor": 0.5977653631284917,
+        "expectancy": -3.6
+      },
+      "NY_PM|LOW_VOL|DOWNTREND": {
+        "trade_count": 4,
+        "net_profit": -47.0,
+        "avg_trade": -11.75,
+        "median_trade": -12.1,
+        "std_trade": 11.243220179290274,
+        "win_rate": 0.25,
+        "loss_rate": 0.75,
+        "profit_factor": 0.044715447154471545,
+        "expectancy": -11.75
+      },
+      "NY_PM|LOW_VOL|RANGE": {
+        "trade_count": 1,
+        "net_profit": -11.1,
+        "avg_trade": -11.1,
+        "median_trade": -11.1,
+        "std_trade": null,
+        "win_rate": 0.0,
+        "loss_rate": 1.0,
+        "profit_factor": 0.0,
+        "expectancy": -11.1
+      },
+      "NY_PM|LOW_VOL|UPTREND": {
+        "trade_count": 2,
+        "net_profit": -2.1000000000000005,
+        "avg_trade": -1.0500000000000003,
+        "median_trade": -1.0500000000000003,
+        "std_trade": 8.273149339882606,
+        "win_rate": 0.5,
+        "loss_rate": 0.5,
+        "profit_factor": 0.6956521739130435,
+        "expectancy": -1.0500000000000003
+      },
+      "NY_PM|MID_VOL|DOWNTREND": {
+        "trade_count": 3,
+        "net_profit": -5.4,
+        "avg_trade": -1.8,
+        "median_trade": -1.7,
+        "std_trade": 5.85064099052403,
+        "win_rate": 0.3333333333333333,
+        "loss_rate": 0.6666666666666666,
+        "profit_factor": 0.425531914893617,
+        "expectancy": -1.8
+      },
+      "NY_PM|MID_VOL|RANGE": {
+        "trade_count": 3,
+        "net_profit": -17.400000000000002,
+        "avg_trade": -5.800000000000001,
+        "median_trade": -6.3,
+        "std_trade": 5.965735495309862,
+        "win_rate": 0.3333333333333333,
+        "loss_rate": 0.6666666666666666,
+        "profit_factor": 0.02247191011235955,
+        "expectancy": -5.800000000000001
+      },
+      "NY_PM|MID_VOL|UPTREND": {
+        "trade_count": 5,
+        "net_profit": -56.599999999999994,
+        "avg_trade": -11.319999999999999,
+        "median_trade": -10.8,
+        "std_trade": 5.063299319613645,
+        "win_rate": 0.0,
+        "loss_rate": 1.0,
+        "profit_factor": 0.0,
+        "expectancy": -11.319999999999999
+      },
+      "NY_PM|UNKNOWN|UNKNOWN": {
+        "trade_count": 5,
+        "net_profit": 44.6,
+        "avg_trade": 8.92,
+        "median_trade": 0.0,
+        "std_trade": 16.16189964082193,
+        "win_rate": 0.4,
+        "loss_rate": 0.4,
+        "profit_factor": 6.309523809523809,
+        "expectancy": 8.92
+      }
+    }
+  },
+  "by_side": {
+    "BUY": {
+      "session_regimes": {},
+      "volatility_regimes": {},
+      "trend_regimes": {},
+      "composite_regimes": {}
+    },
+    "SELL": {
+      "session_regimes": {},
+      "volatility_regimes": {},
+      "trend_regimes": {},
+      "composite_regimes": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDJPY_39_6.27.190_BUY_M15",
+  "features": {
+    "strategy_id": "USDJPY_39_6.27.190_BUY_M15",
+    "trade_count_total": 1727,
+    "trade_count_is": 1114,
+    "trade_count_oos": 613,
+    "active_months": 57,
+    "trades_per_month": 30.29824561403509,
+    "net_profit_total": 22168.940000000002,
+    "net_profit_is": 15810.470000000001,
+    "net_profit_oos": 6358.47,
+    "win_rate_total": 0.5518239722061378,
+    "win_rate_is": 0.5727109515260324,
+    "win_rate_oos": 0.5138662316476346,
+    "avg_win_total": 90.6469464847849,
+    "avg_loss_total": -82.96847545219639,
+    "payoff_ratio_total": 1.0925468497611794,
+    "expectancy_total": 12.83667631731326,
+    "expectancy_is": 14.192522441651706,
+    "expectancy_oos": 10.372707993474714,
+    "profit_factor_total": 1.3452159532589196,
+    "profit_factor_is": 1.409855792598914,
+    "profit_factor_oos": 1.2479717774533956,
+    "first_trade_time_utc": "2021-07-09T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USOIL.cash_42_1.25.121_BUY_M15",
+  "features": {
+    "strategy_id": "USOIL.cash_42_1.25.121_BUY_M15",
+    "trade_count_total": 837,
+    "trade_count_is": 531,
+    "trade_count_oos": 306,
+    "active_months": 57,
+    "trades_per_month": 14.68421052631579,
+    "net_profit_total": 462.5799999999999,
+    "net_profit_is": 430.05999999999995,
+    "net_profit_oos": 32.51999999999998,
+    "win_rate_total": 0.6224611708482676,
+    "win_rate_is": 0.6666666666666666,
+    "win_rate_oos": 0.545751633986928,
+    "avg_win_total": 5.451439539347408,
+    "avg_loss_total": -7.524113924050632,
+    "payoff_ratio_total": 0.7245291065997851,
+    "expectancy_total": 0.5526642771804061,
+    "expectancy_is": 0.8099058380414311,
+    "expectancy_oos": 0.10627450980392152,
+    "profit_factor_total": 1.1945559004382533,
+    "profit_factor_is": 1.2822879197626489,
+    "profit_factor_oos": 1.0380733837544196,
+    "first_trade_time_utc": "2021-07-06T14:42:40+00:00",
+    "last_trade_time_utc": "2026-03-12T16:15:40+00:00"
+  }
+}

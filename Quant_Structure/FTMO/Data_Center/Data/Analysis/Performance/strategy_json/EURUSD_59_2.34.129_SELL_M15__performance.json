@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURUSD_59_2.34.129_SELL_M15",
+  "features": {
+    "strategy_id": "EURUSD_59_2.34.129_SELL_M15",
+    "trade_count_total": 964,
+    "trade_count_is": 607,
+    "trade_count_oos": 357,
+    "active_months": 57,
+    "trades_per_month": 16.912280701754387,
+    "net_profit_total": 758.5199999999999,
+    "net_profit_is": 305.12,
+    "net_profit_oos": 453.3999999999999,
+    "win_rate_total": 0.6317427385892116,
+    "win_rate_is": 0.627677100494234,
+    "win_rate_oos": 0.6386554621848739,
+    "avg_win_total": 19.890837438423645,
+    "avg_loss_total": -32.07627118644068,
+    "payoff_ratio_total": 0.6201106519772761,
+    "expectancy_total": 0.7868464730290455,
+    "expectancy_is": 0.502668863261944,
+    "expectancy_oos": 1.2700280112044815,
+    "profit_factor_total": 1.0668005284015853,
+    "profit_factor_is": 1.0416511958064867,
+    "profit_factor_oos": 1.1125229562714052,
+    "first_trade_time_utc": "2021-07-05T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-11T12:04:20+00:00"
+  }
+}

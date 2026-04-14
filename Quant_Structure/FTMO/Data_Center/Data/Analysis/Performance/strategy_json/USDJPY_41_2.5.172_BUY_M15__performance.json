@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDJPY_41_2.5.172_BUY_M15",
+  "features": {
+    "strategy_id": "USDJPY_41_2.5.172_BUY_M15",
+    "trade_count_total": 748,
+    "trade_count_is": 504,
+    "trade_count_oos": 244,
+    "active_months": 57,
+    "trades_per_month": 13.12280701754386,
+    "net_profit_total": 3264.21,
+    "net_profit_is": 2343.9300000000003,
+    "net_profit_oos": 920.2800000000001,
+    "win_rate_total": 0.5280748663101604,
+    "win_rate_is": 0.5317460317460317,
+    "win_rate_oos": 0.5204918032786885,
+    "avg_win_total": 35.46184810126582,
+    "avg_loss_total": -30.434050991501415,
+    "payoff_ratio_total": 1.1652030191829672,
+    "expectancy_total": 4.3639171122994656,
+    "expectancy_is": 4.650654761904763,
+    "expectancy_oos": 3.7716393442622955,
+    "profit_factor_total": 1.3038390724568614,
+    "profit_factor_is": 1.3325100720649155,
+    "profit_factor_oos": 1.2491269673688825,
+    "first_trade_time_utc": "2021-07-13T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

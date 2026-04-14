@@ -1,0 +1,28 @@
+{
+  "strategy_id": "GBPUSD_74_6.52.179_SELL_M15",
+  "features": {
+    "strategy_id": "GBPUSD_74_6.52.179_SELL_M15",
+    "trade_count_total": 723,
+    "trade_count_is": 446,
+    "trade_count_oos": 277,
+    "active_months": 57,
+    "trades_per_month": 12.68421052631579,
+    "net_profit_total": 2441.66,
+    "net_profit_is": 1415.1799999999998,
+    "net_profit_oos": 1026.48,
+    "win_rate_total": 0.5103734439834025,
+    "win_rate_is": 0.5112107623318386,
+    "win_rate_oos": 0.5090252707581228,
+    "avg_win_total": 35.3890514905149,
+    "avg_loss_total": -29.991242937853105,
+    "payoff_ratio_total": 1.1799794881408203,
+    "expectancy_total": 3.377123098201936,
+    "expectancy_is": 3.17304932735426,
+    "expectancy_oos": 3.7057039711191337,
+    "profit_factor_total": 1.229978618994245,
+    "profit_factor_is": 1.203787224238235,
+    "profit_factor_oos": 1.279504424778761,
+    "first_trade_time_utc": "2021-07-06T05:04:40+00:00",
+    "last_trade_time_utc": "2026-03-10T23:45:00+00:00"
+  }
+}

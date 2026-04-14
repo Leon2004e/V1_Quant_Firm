@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDJPY_37_0.18430_BUY_M15",
+  "features": {
+    "strategy_id": "USDJPY_37_0.18430_BUY_M15",
+    "trade_count_total": 1138,
+    "trade_count_is": 746,
+    "trade_count_oos": 392,
+    "active_months": 57,
+    "trades_per_month": 19.964912280701753,
+    "net_profit_total": 8198.18,
+    "net_profit_is": 4862.039999999999,
+    "net_profit_oos": 3336.14,
+    "win_rate_total": 0.5114235500878734,
+    "win_rate_is": 0.5040214477211796,
+    "win_rate_oos": 0.5255102040816326,
+    "avg_win_total": 67.90024054982818,
+    "avg_loss_total": -56.3305035971223,
+    "payoff_ratio_total": 1.2053902630704856,
+    "expectancy_total": 7.204024604569421,
+    "expectancy_is": 6.517479892761393,
+    "expectancy_oos": 8.510561224489795,
+    "profit_factor_total": 1.261757433645724,
+    "profit_factor_is": 1.2396718169557297,
+    "profit_factor_oos": 1.3023640687649998,
+    "first_trade_time_utc": "2021-07-07T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

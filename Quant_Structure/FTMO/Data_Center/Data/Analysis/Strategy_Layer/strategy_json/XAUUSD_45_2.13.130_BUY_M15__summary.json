@@ -1,0 +1,2216 @@
+{
+  "strategy_id": "XAUUSD_45_2.13.130_BUY_M15",
+  "summary": {
+    "strategy_id": "XAUUSD_45_2.13.130_BUY_M15",
+    "symbol_mode": "XAUUSD",
+    "timeframe_mode": null,
+    "side_mode": null,
+    "trade_count": 1570,
+    "win_count": 860,
+    "loss_count": 710,
+    "flat_count": 0,
+    "first_trade_time_utc": "2021-07-02T15:00:40+00:00",
+    "last_trade_time_utc": "2026-03-12T10:45:40+00:00",
+    "active_days": 1715,
+    "trades_per_day": 0.9154518950437318,
+    "gross_profit": 86757.4,
+    "gross_loss": -69119.85999999999,
+    "net_profit": 17637.539999999997,
+    "avg_trade": 11.234101910828024,
+    "median_trade": 38.16,
+    "std_trade": 103.97000796696084,
+    "skew_trade": -0.21777502887275949,
+    "kurt_trade": -1.7744886258401018,
+    "p01_trade": -116.8048,
+    "p05_trade": -116.46,
+    "p25_trade": -116.02,
+    "p50_trade": 38.16,
+    "p75_trade": 113.32,
+    "p95_trade": 113.5,
+    "p99_trade": 113.52,
+    "avg_win": 100.8806976744186,
+    "median_win": 113.28,
+    "max_win": 156.2,
+    "avg_loss": -97.35191549295773,
+    "median_loss": -116.06,
+    "max_loss": -153.64,
+    "win_rate": 0.5477707006369427,
+    "loss_rate": 0.45222929936305734,
+    "payoff_ratio": 1.0362476913124132,
+    "profit_factor": 1.2551732598995429,
+    "expectancy": 11.234101910828024,
+    "max_drawdown_abs": -2628.0399999999936,
+    "max_drawdown_pct": -0.025224236013863456,
+    "drawdown_count": 47,
+    "max_drawdown_duration_trades": 350,
+    "avg_drawdown_duration_trades": 29.382978723404257,
+    "time_under_water_pct": 0.8796178343949045,
+    "recovery_count": 47,
+    "max_recovery_trades": 350,
+    "median_recovery_trades": 16.0,
+    "avg_recovery_trades": 29.382978723404257,
+    "equity_slope_per_trade": 10.883107601352084,
+    "equity_r2": 0.8375159218174496,
+    "return_mean_trade_pct": 0.0001039473877817918,
+    "return_median_trade_pct": 0.00035405288730455377,
+    "return_std_trade_pct": 0.0009783837923201444,
+    "sharpe_trade": 0.10624397971198034,
+    "sortino_trade": 0.3068582323899069,
+    "avg_holding_time_sec": 31190.463694267517,
+    "median_holding_time_sec": 26650.0,
+    "p90_holding_time_sec": 66000.0,
+    "max_holding_time_sec": 245106.0,
+    "avg_mfe_abs": 9.806208125445472,
+    "median_mfe_abs": 10.400000000000093,
+    "p90_mfe_abs": 17.2159999999998,
+    "avg_mae_abs": 8.890555951532429,
+    "median_mae_abs": 7.480000000000018,
+    "p90_mae_abs": 16.48399999999983,
+    "avg_profit_capture_ratio": -5.293775484498147,
+    "median_profit_capture_ratio": 0.4525605398967871,
+    "avg_time_to_mfe_min": 314.89665003563795,
+    "avg_time_to_mae_min": 285.7305773342837,
+    "max_win_streak": 16,
+    "max_loss_streak": 16,
+    "avg_win_streak": 4.410256410256411,
+    "avg_loss_streak": 3.6597938144329896,
+    "top_1_trade_share_of_profit": 0.0018004227881425674,
+    "top_5_trades_share_of_profit": 0.007465184526046191,
+    "top_10_trades_share_of_profit": 0.014008949092526975,
+    "valid_path_ratio": 0.8936305732484077,
+    "monthly_net_mean": 309.43052631578945,
+    "monthly_net_median": 292.9,
+    "monthly_positive_ratio": 0.6666666666666666,
+    "best_month_net": 2388.079999999999,
+    "worst_month_net": -1144.92,
+    "weekly_net_mean": 73.79723849372385,
+    "weekly_net_median": 88.53999999999999,
+    "weekly_positive_ratio": 0.5397489539748954,
+    "best_week_net": 907.2,
+    "worst_week_net": -928.48,
+    "segment_sample_types": "IS|OOS",
+    "segment_account_types": "DEMO_ACCOUNT|LIVE_ACCOUNT"
+  },
+  "by_sample_type": {
+    "IS": {
+      "trade_count": 985,
+      "net_profit": 5123.9400000000005,
+      "avg_trade": 5.201969543147209,
+      "median_trade": 10.98,
+      "win_rate": 0.516751269035533,
+      "profit_factor": 1.1186857690297858,
+      "avg_mfe_abs": 8.813251833740834,
+      "avg_mae_abs": 8.478361858190711
+    },
+    "OOS": {
+      "trade_count": 585,
+      "net_profit": 12513.599999999999,
+      "avg_trade": 21.390769230769227,
+      "median_trade": 112.8,
+      "win_rate": 0.6,
+      "profit_factor": 1.48226537082128,
+      "avg_mfe_abs": 11.194649572649565,
+      "avg_mae_abs": 9.46692307692307
+    }
+  },
+  "by_account_type": {
+    "DEMO_ACCOUNT": {
+      "trade_count": 788,
+      "net_profit": 8994.199999999999,
+      "avg_trade": 11.413959390862942,
+      "median_trade": 38.59,
+      "win_rate": 0.549492385786802,
+      "profit_factor": 1.2596578505057643,
+      "avg_mfe_abs": 9.833687943262408,
+      "avg_mae_abs": 8.878113475177303
+    },
+    "LIVE_ACCOUNT": {
+      "trade_count": 782,
+      "net_profit": 8643.34,
+      "avg_trade": 11.052864450127878,
+      "median_trade": 37.14,
+      "win_rate": 0.5460358056265985,
+      "profit_factor": 1.2506681902021974,
+      "avg_mfe_abs": 9.778452722063037,
+      "avg_mae_abs": 8.903123209169053
+    }
+  },
+  "calendar_segments": {
+    "monthly": {
+      "2021-07": {
+        "trade_count": 33,
+        "net_profit": 247.2600000000001,
+        "avg_trade": 7.492727272727276,
+        "median_trade": 19.18,
+        "win_rate": 0.5757575757575758
+      },
+      "2021-08": {
+        "trade_count": 26,
+        "net_profit": -14.240000000000006,
+        "avg_trade": -0.5476923076923079,
+        "median_trade": -3.92,
+        "win_rate": 0.46153846153846156
+      },
+      "2021-09": {
+        "trade_count": 28,
+        "net_profit": -1144.92,
+        "avg_trade": -40.89,
+        "median_trade": -81.63,
+        "win_rate": 0.2857142857142857
+      },
+      "2021-10": {
+        "trade_count": 24,
+        "net_profit": 1143.52,
+        "avg_trade": 47.64666666666667,
+        "median_trade": 39.68,
+        "win_rate": 0.75
+      },
+      "2021-11": {
+        "trade_count": 32,
+        "net_profit": 474.14000000000004,
+        "avg_trade": 14.816875000000001,
+        "median_trade": 58.08,
+        "win_rate": 0.5625
+      },
+      "2021-12": {
+        "trade_count": 24,
+        "net_profit": 1004.24,
+        "avg_trade": 41.843333333333334,
+        "median_trade": 113.48,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-01": {
+        "trade_count": 22,
+        "net_profit": 351.96000000000004,
+        "avg_trade": 15.99818181818182,
+        "median_trade": 40.88,
+        "win_rate": 0.5454545454545454
+      },
+      "2022-02": {
+        "trade_count": 30,
+        "net_profit": -106.7999999999999,
+        "avg_trade": -3.5599999999999965,
+        "median_trade": 29.68,
+        "win_rate": 0.6
+      },
+      "2022-03": {
+        "trade_count": 32,
+        "net_profit": -19.40000000000009,
+        "avg_trade": -0.6062500000000028,
+        "median_trade": 4.239999999999998,
+        "win_rate": 0.5
+      },
+      "2022-04": {
+        "trade_count": 22,
+        "net_profit": 276.0,
+        "avg_trade": 12.545454545454545,
+        "median_trade": 61.74,
+        "win_rate": 0.6363636363636364
+      },
+      "2022-05": {
+        "trade_count": 28,
+        "net_profit": 406.24,
+        "avg_trade": 14.508571428571429,
+        "median_trade": 6.130000000000001,
+        "win_rate": 0.5714285714285714
+      },
+      "2022-06": {
+        "trade_count": 16,
+        "net_profit": -448.81999999999994,
+        "avg_trade": -28.051249999999996,
+        "median_trade": -59.66,
+        "win_rate": 0.4375
+      },
+      "2022-07": {
+        "trade_count": 28,
+        "net_profit": -156.30000000000007,
+        "avg_trade": -5.58214285714286,
+        "median_trade": -24.970000000000002,
+        "win_rate": 0.42857142857142855
+      },
+      "2022-08": {
+        "trade_count": 36,
+        "net_profit": -408.8800000000001,
+        "avg_trade": -11.35777777777778,
+        "median_trade": -40.7,
+        "win_rate": 0.4444444444444444
+      },
+      "2022-09": {
+        "trade_count": 28,
+        "net_profit": 891.3199999999999,
+        "avg_trade": 31.83285714285714,
+        "median_trade": 113.52,
+        "win_rate": 0.6428571428571429
+      },
+      "2022-10": {
+        "trade_count": 32,
+        "net_profit": -798.3599999999999,
+        "avg_trade": -24.948749999999997,
+        "median_trade": -79.87,
+        "win_rate": 0.375
+      },
+      "2022-11": {
+        "trade_count": 30,
+        "net_profit": 638.5799999999999,
+        "avg_trade": 21.285999999999998,
+        "median_trade": 26.73,
+        "win_rate": 0.5333333333333333
+      },
+      "2022-12": {
+        "trade_count": 34,
+        "net_profit": 911.4000000000001,
+        "avg_trade": 26.80588235294118,
+        "median_trade": 28.38,
+        "win_rate": 0.6470588235294118
+      },
+      "2023-01": {
+        "trade_count": 34,
+        "net_profit": -452.32,
+        "avg_trade": -13.303529411764705,
+        "median_trade": -116.02,
+        "win_rate": 0.47058823529411764
+      },
+      "2023-02": {
+        "trade_count": 26,
+        "net_profit": -633.0799999999999,
+        "avg_trade": -24.349230769230765,
+        "median_trade": -42.92,
+        "win_rate": 0.38461538461538464
+      },
+      "2023-03": {
+        "trade_count": 34,
+        "net_profit": 731.5600000000001,
+        "avg_trade": 21.516470588235297,
+        "median_trade": 113.44,
+        "win_rate": 0.5294117647058824
+      },
+      "2023-04": {
+        "trade_count": 26,
+        "net_profit": -826.76,
+        "avg_trade": -31.798461538461538,
+        "median_trade": -116.06,
+        "win_rate": 0.38461538461538464
+      },
+      "2023-05": {
+        "trade_count": 28,
+        "net_profit": 1013.3200000000002,
+        "avg_trade": 36.190000000000005,
+        "median_trade": 113.44,
+        "win_rate": 0.6428571428571429
+      },
+      "2023-06": {
+        "trade_count": 24,
+        "net_profit": 87.47999999999999,
+        "avg_trade": 3.6449999999999996,
+        "median_trade": -8.51,
+        "win_rate": 0.5
+      },
+      "2023-07": {
+        "trade_count": 28,
+        "net_profit": 593.7,
+        "avg_trade": 21.20357142857143,
+        "median_trade": 43.89,
+        "win_rate": 0.6428571428571429
+      },
+      "2023-08": {
+        "trade_count": 30,
+        "net_profit": -884.4399999999998,
+        "avg_trade": -29.48133333333333,
+        "median_trade": -56.52,
+        "win_rate": 0.26666666666666666
+      },
+      "2023-09": {
+        "trade_count": 10,
+        "net_profit": -471.88,
+        "avg_trade": -47.188,
+        "median_trade": -65.45,
+        "win_rate": 0.2
+      },
+      "2023-10": {
+        "trade_count": 24,
+        "net_profit": 238.76,
+        "avg_trade": 9.948333333333332,
+        "median_trade": 5.449999999999999,
+        "win_rate": 0.5416666666666666
+      },
+      "2023-11": {
+        "trade_count": 26,
+        "net_profit": -438.3,
+        "avg_trade": -16.857692307692307,
+        "median_trade": -49.56,
+        "win_rate": 0.38461538461538464
+      },
+      "2023-12": {
+        "trade_count": 34,
+        "net_profit": 376.84000000000003,
+        "avg_trade": 11.083529411764706,
+        "median_trade": 80.14,
+        "win_rate": 0.5294117647058824
+      },
+      "2024-01": {
+        "trade_count": 24,
+        "net_profit": -115.24000000000001,
+        "avg_trade": -4.801666666666667,
+        "median_trade": -22.259999999999998,
+        "win_rate": 0.4166666666666667
+      },
+      "2024-02": {
+        "trade_count": 16,
+        "net_profit": 714.64,
+        "avg_trade": 44.665,
+        "median_trade": 95.19,
+        "win_rate": 0.625
+      },
+      "2024-03": {
+        "trade_count": 30,
+        "net_profit": 1184.6800000000003,
+        "avg_trade": 39.48933333333334,
+        "median_trade": 113.4,
+        "win_rate": 0.6666666666666666
+      },
+      "2024-04": {
+        "trade_count": 32,
+        "net_profit": -44.88000000000011,
+        "avg_trade": -1.4025000000000034,
+        "median_trade": -1.4100000000000037,
+        "win_rate": 0.5
+      },
+      "2024-05": {
+        "trade_count": 32,
+        "net_profit": 110.96000000000004,
+        "avg_trade": 3.467500000000001,
+        "median_trade": 2.59,
+        "win_rate": 0.5
+      },
+      "2024-06": {
+        "trade_count": 22,
+        "net_profit": 691.96,
+        "avg_trade": 31.452727272727273,
+        "median_trade": 113.32,
+        "win_rate": 0.6363636363636364
+      },
+      "2024-07": {
+        "trade_count": 32,
+        "net_profit": 1198.6599999999999,
+        "avg_trade": 37.458124999999995,
+        "median_trade": 113.32,
+        "win_rate": 0.625
+      },
+      "2024-08": {
+        "trade_count": 28,
+        "net_profit": 499.31999999999994,
+        "avg_trade": 17.83285714285714,
+        "median_trade": 78.6,
+        "win_rate": 0.5714285714285714
+      },
+      "2024-09": {
+        "trade_count": 32,
+        "net_profit": 1329.88,
+        "avg_trade": 41.55875,
+        "median_trade": 113.28,
+        "win_rate": 0.6875
+      },
+      "2024-10": {
+        "trade_count": 32,
+        "net_profit": 1423.8,
+        "avg_trade": 44.49375,
+        "median_trade": 113.24,
+        "win_rate": 0.6875
+      },
+      "2024-11": {
+        "trade_count": 34,
+        "net_profit": 935.0,
+        "avg_trade": 27.5,
+        "median_trade": 113.24,
+        "win_rate": 0.6470588235294118
+      },
+      "2024-12": {
+        "trade_count": 24,
+        "net_profit": -779.9000000000001,
+        "avg_trade": -32.49583333333334,
+        "median_trade": -116.22,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-01": {
+        "trade_count": 36,
+        "net_profit": 2388.079999999999,
+        "avg_trade": 66.33555555555553,
+        "median_trade": 113.24,
+        "win_rate": 0.7777777777777778
+      },
+      "2025-02": {
+        "trade_count": 28,
+        "net_profit": -269.43999999999994,
+        "avg_trade": -9.622857142857141,
+        "median_trade": -58.0,
+        "win_rate": 0.5
+      },
+      "2025-03": {
+        "trade_count": 28,
+        "net_profit": 873.8799999999999,
+        "avg_trade": 31.209999999999997,
+        "median_trade": 113.16,
+        "win_rate": 0.6428571428571429
+      },
+      "2025-04": {
+        "trade_count": 26,
+        "net_profit": 1104.76,
+        "avg_trade": 42.49076923076923,
+        "median_trade": 113.08,
+        "win_rate": 0.6923076923076923
+      },
+      "2025-05": {
+        "trade_count": 30,
+        "net_profit": 179.32,
+        "avg_trade": 5.977333333333333,
+        "median_trade": 113.04,
+        "win_rate": 0.5333333333333333
+      },
+      "2025-06": {
+        "trade_count": 16,
+        "net_profit": -632.9599999999999,
+        "avg_trade": -39.559999999999995,
+        "median_trade": -116.43,
+        "win_rate": 0.375
+      },
+      "2025-07": {
+        "trade_count": 30,
+        "net_profit": 292.9,
+        "avg_trade": 9.763333333333332,
+        "median_trade": 17.189999999999998,
+        "win_rate": 0.6
+      },
+      "2025-08": {
+        "trade_count": 26,
+        "net_profit": 768.76,
+        "avg_trade": 29.567692307692308,
+        "median_trade": 113.04,
+        "win_rate": 0.6153846153846154
+      },
+      "2025-09": {
+        "trade_count": 34,
+        "net_profit": 628.1199999999997,
+        "avg_trade": 18.474117647058815,
+        "median_trade": 112.96,
+        "win_rate": 0.5882352941176471
+      },
+      "2025-10": {
+        "trade_count": 38,
+        "net_profit": 616.64,
+        "avg_trade": 16.22736842105263,
+        "median_trade": 112.76,
+        "win_rate": 0.5789473684210527
+      },
+      "2025-11": {
+        "trade_count": 32,
+        "net_profit": 857.3199999999999,
+        "avg_trade": 26.791249999999998,
+        "median_trade": 112.84,
+        "win_rate": 0.625
+      },
+      "2025-12": {
+        "trade_count": 26,
+        "net_profit": 178.47999999999996,
+        "avg_trade": 6.864615384615383,
+        "median_trade": 112.74,
+        "win_rate": 0.5384615384615384
+      },
+      "2026-01": {
+        "trade_count": 30,
+        "net_profit": 167.24,
+        "avg_trade": 5.574666666666667,
+        "median_trade": 112.56,
+        "win_rate": 0.5333333333333333
+      },
+      "2026-02": {
+        "trade_count": 17,
+        "net_profit": 537.44,
+        "avg_trade": 31.614117647058826,
+        "median_trade": 112.6,
+        "win_rate": 0.6470588235294118
+      },
+      "2026-03": {
+        "trade_count": 6,
+        "net_profit": 216.3,
+        "avg_trade": 36.050000000000004,
+        "median_trade": 112.56,
+        "win_rate": 0.6666666666666666
+      }
+    },
+    "weekly": {
+      "2021-06-28/2021-07-04": {
+        "trade_count": 1,
+        "net_profit": 113.5,
+        "avg_trade": 113.5,
+        "median_trade": 113.5,
+        "win_rate": 1.0
+      },
+      "2021-07-05/2021-07-11": {
+        "trade_count": 8,
+        "net_profit": 530.8399999999999,
+        "avg_trade": 66.35499999999999,
+        "median_trade": 66.38,
+        "win_rate": 1.0
+      },
+      "2021-07-12/2021-07-18": {
+        "trade_count": 8,
+        "net_profit": -1.759999999999991,
+        "avg_trade": -0.21999999999999886,
+        "median_trade": 0.8300000000000001,
+        "win_rate": 0.5
+      },
+      "2021-07-19/2021-07-25": {
+        "trade_count": 8,
+        "net_profit": -467.35999999999996,
+        "avg_trade": -58.419999999999995,
+        "median_trade": -76.57,
+        "win_rate": 0.25
+      },
+      "2021-07-26/2021-08-01": {
+        "trade_count": 8,
+        "net_profit": 72.04000000000002,
+        "avg_trade": 9.005000000000003,
+        "median_trade": 19.28,
+        "win_rate": 0.5
+      },
+      "2021-08-02/2021-08-08": {
+        "trade_count": 2,
+        "net_profit": -232.04,
+        "avg_trade": -116.02,
+        "median_trade": -116.02,
+        "win_rate": 0.0
+      },
+      "2021-08-09/2021-08-15": {
+        "trade_count": 8,
+        "net_profit": 237.15999999999997,
+        "avg_trade": 29.644999999999996,
+        "median_trade": 60.519999999999996,
+        "win_rate": 0.75
+      },
+      "2021-08-16/2021-08-22": {
+        "trade_count": 8,
+        "net_profit": -276.40000000000003,
+        "avg_trade": -34.550000000000004,
+        "median_trade": -32.69,
+        "win_rate": 0.0
+      },
+      "2021-08-23/2021-08-29": {
+        "trade_count": 6,
+        "net_profit": 205.28000000000003,
+        "avg_trade": 34.21333333333334,
+        "median_trade": 13.48,
+        "win_rate": 0.6666666666666666
+      },
+      "2021-08-30/2021-09-05": {
+        "trade_count": 4,
+        "net_profit": 17.31999999999999,
+        "avg_trade": 4.329999999999997,
+        "median_trade": 4.329999999999998,
+        "win_rate": 0.5
+      },
+      "2021-09-06/2021-09-12": {
+        "trade_count": 8,
+        "net_profit": -642.76,
+        "avg_trade": -80.345,
+        "median_trade": -116.02,
+        "win_rate": 0.25
+      },
+      "2021-09-13/2021-09-19": {
+        "trade_count": 4,
+        "net_profit": 61.79999999999998,
+        "avg_trade": 15.449999999999996,
+        "median_trade": 15.449999999999996,
+        "win_rate": 0.5
+      },
+      "2021-09-20/2021-09-26": {
+        "trade_count": 8,
+        "net_profit": -292.64000000000004,
+        "avg_trade": -36.580000000000005,
+        "median_trade": -71.93,
+        "win_rate": 0.25
+      },
+      "2021-09-27/2021-10-03": {
+        "trade_count": 8,
+        "net_profit": -210.44000000000003,
+        "avg_trade": -26.305000000000003,
+        "median_trade": -51.38,
+        "win_rate": 0.5
+      },
+      "2021-10-04/2021-10-10": {
+        "trade_count": 4,
+        "net_profit": 108.48000000000002,
+        "avg_trade": 27.120000000000005,
+        "median_trade": 27.120000000000005,
+        "win_rate": 0.5
+      },
+      "2021-10-11/2021-10-17": {
+        "trade_count": 6,
+        "net_profit": 325.84,
+        "avg_trade": 54.306666666666665,
+        "median_trade": 26.08,
+        "win_rate": 1.0
+      },
+      "2021-10-18/2021-10-24": {
+        "trade_count": 8,
+        "net_profit": 586.8399999999999,
+        "avg_trade": 73.35499999999999,
+        "median_trade": 113.5,
+        "win_rate": 0.75
+      },
+      "2021-10-25/2021-10-31": {
+        "trade_count": 4,
+        "net_profit": 95.92000000000002,
+        "avg_trade": 23.980000000000004,
+        "median_trade": 23.98,
+        "win_rate": 0.5
+      },
+      "2021-11-01/2021-11-07": {
+        "trade_count": 8,
+        "net_profit": 90.75999999999999,
+        "avg_trade": 11.344999999999999,
+        "median_trade": 23.93,
+        "win_rate": 0.5
+      },
+      "2021-11-08/2021-11-14": {
+        "trade_count": 8,
+        "net_profit": 686.24,
+        "avg_trade": 85.78,
+        "median_trade": 86.88,
+        "win_rate": 1.0
+      },
+      "2021-11-15/2021-11-21": {
+        "trade_count": 8,
+        "net_profit": -501.96,
+        "avg_trade": -62.745,
+        "median_trade": -116.02,
+        "win_rate": 0.25
+      },
+      "2021-11-22/2021-11-28": {
+        "trade_count": 6,
+        "net_profit": -27.85999999999997,
+        "avg_trade": -4.643333333333328,
+        "median_trade": -11.41,
+        "win_rate": 0.3333333333333333
+      },
+      "2021-11-29/2021-12-05": {
+        "trade_count": 8,
+        "net_profit": 449.04,
+        "avg_trade": 56.13,
+        "median_trade": 113.49000000000001,
+        "win_rate": 0.75
+      },
+      "2021-12-13/2021-12-19": {
+        "trade_count": 6,
+        "net_profit": 222.0,
+        "avg_trade": 37.0,
+        "median_trade": 113.48,
+        "win_rate": 0.6666666666666666
+      },
+      "2021-12-20/2021-12-26": {
+        "trade_count": 6,
+        "net_profit": 120.08000000000001,
+        "avg_trade": 20.013333333333335,
+        "median_trade": 10.98,
+        "win_rate": 0.6666666666666666
+      },
+      "2021-12-27/2022-01-02": {
+        "trade_count": 6,
+        "net_profit": 440.08000000000004,
+        "avg_trade": 73.34666666666668,
+        "median_trade": 113.48,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-01-03/2022-01-09": {
+        "trade_count": 6,
+        "net_profit": 378.88000000000005,
+        "avg_trade": 63.146666666666675,
+        "median_trade": 77.97999999999999,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-01-10/2022-01-16": {
+        "trade_count": 8,
+        "net_profit": -46.56000000000006,
+        "avg_trade": -5.820000000000007,
+        "median_trade": -10.370000000000005,
+        "win_rate": 0.5
+      },
+      "2022-01-17/2022-01-23": {
+        "trade_count": 6,
+        "net_profit": -62.120000000000005,
+        "avg_trade": -10.353333333333333,
+        "median_trade": -28.520000000000003,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-01-24/2022-01-30": {
+        "trade_count": 2,
+        "net_profit": 81.76,
+        "avg_trade": 40.88,
+        "median_trade": 40.88,
+        "win_rate": 1.0
+      },
+      "2022-01-31/2022-02-06": {
+        "trade_count": 6,
+        "net_profit": -91.91999999999999,
+        "avg_trade": -15.319999999999999,
+        "median_trade": 14.28,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-02-07/2022-02-13": {
+        "trade_count": 8,
+        "net_profit": 173.04000000000002,
+        "avg_trade": 21.630000000000003,
+        "median_trade": 44.53,
+        "win_rate": 0.75
+      },
+      "2022-02-14/2022-02-20": {
+        "trade_count": 8,
+        "net_profit": -10.159999999999968,
+        "avg_trade": -1.269999999999996,
+        "median_trade": -1.269999999999996,
+        "win_rate": 0.5
+      },
+      "2022-02-21/2022-02-27": {
+        "trade_count": 8,
+        "net_profit": -177.76,
+        "avg_trade": -22.22,
+        "median_trade": -43.17,
+        "win_rate": 0.5
+      },
+      "2022-02-28/2022-03-06": {
+        "trade_count": 8,
+        "net_profit": 304.6,
+        "avg_trade": 38.075,
+        "median_trade": 77.44,
+        "win_rate": 0.75
+      },
+      "2022-03-07/2022-03-13": {
+        "trade_count": 8,
+        "net_profit": -762.28,
+        "avg_trade": -95.285,
+        "median_trade": -116.06,
+        "win_rate": 0.0
+      },
+      "2022-03-14/2022-03-20": {
+        "trade_count": 6,
+        "net_profit": -237.24,
+        "avg_trade": -39.54,
+        "median_trade": -116.02,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-03-21/2022-03-27": {
+        "trade_count": 6,
+        "net_profit": 221.71999999999997,
+        "avg_trade": 36.953333333333326,
+        "median_trade": 113.44,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-03-28/2022-04-03": {
+        "trade_count": 4,
+        "net_profit": 453.8,
+        "avg_trade": 113.45,
+        "median_trade": 113.44999999999999,
+        "win_rate": 1.0
+      },
+      "2022-04-04/2022-04-10": {
+        "trade_count": 2,
+        "net_profit": 226.88,
+        "avg_trade": 113.44,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2022-04-11/2022-04-17": {
+        "trade_count": 6,
+        "net_profit": 118.24000000000001,
+        "avg_trade": 19.706666666666667,
+        "median_trade": 61.74,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-04-18/2022-04-24": {
+        "trade_count": 6,
+        "net_profit": -295.96000000000004,
+        "avg_trade": -49.326666666666675,
+        "median_trade": -116.06,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-04-25/2022-05-01": {
+        "trade_count": 8,
+        "net_profit": 226.84,
+        "avg_trade": 28.355,
+        "median_trade": 57.98,
+        "win_rate": 0.75
+      },
+      "2022-05-02/2022-05-08": {
+        "trade_count": 8,
+        "net_profit": 235.44000000000003,
+        "avg_trade": 29.430000000000003,
+        "median_trade": 60.13,
+        "win_rate": 0.75
+      },
+      "2022-05-09/2022-05-15": {
+        "trade_count": 6,
+        "net_profit": -237.11999999999998,
+        "avg_trade": -39.519999999999996,
+        "median_trade": -116.02,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-05-16/2022-05-22": {
+        "trade_count": 8,
+        "net_profit": 219.84000000000003,
+        "avg_trade": 27.480000000000004,
+        "median_trade": 56.230000000000004,
+        "win_rate": 0.5
+      },
+      "2022-05-23/2022-05-29": {
+        "trade_count": 6,
+        "net_profit": 188.07999999999998,
+        "avg_trade": 31.346666666666664,
+        "median_trade": 5.48,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-05-30/2022-06-05": {
+        "trade_count": 6,
+        "net_profit": -206.62,
+        "avg_trade": -34.43666666666667,
+        "median_trade": 2.29,
+        "win_rate": 0.5
+      },
+      "2022-06-06/2022-06-12": {
+        "trade_count": 2,
+        "net_profit": 226.96,
+        "avg_trade": 113.48,
+        "median_trade": 113.48,
+        "win_rate": 1.0
+      },
+      "2022-06-13/2022-06-19": {
+        "trade_count": 8,
+        "net_profit": -469.15999999999997,
+        "avg_trade": -58.644999999999996,
+        "median_trade": -116.02,
+        "win_rate": 0.25
+      },
+      "2022-06-27/2022-07-03": {
+        "trade_count": 2,
+        "net_profit": 151.56,
+        "avg_trade": 75.78,
+        "median_trade": 75.78,
+        "win_rate": 1.0
+      },
+      "2022-07-04/2022-07-10": {
+        "trade_count": 4,
+        "net_profit": -332.90000000000003,
+        "avg_trade": -83.22500000000001,
+        "median_trade": -84.58000000000001,
+        "win_rate": 0.0
+      },
+      "2022-07-11/2022-07-17": {
+        "trade_count": 6,
+        "net_profit": -695.88,
+        "avg_trade": -115.98,
+        "median_trade": -115.98,
+        "win_rate": 0.0
+      },
+      "2022-07-18/2022-07-24": {
+        "trade_count": 8,
+        "net_profit": 217.75999999999996,
+        "avg_trade": 27.219999999999995,
+        "median_trade": 55.669999999999995,
+        "win_rate": 0.5
+      },
+      "2022-07-25/2022-07-31": {
+        "trade_count": 8,
+        "net_profit": 503.15999999999997,
+        "avg_trade": 62.894999999999996,
+        "median_trade": 93.17,
+        "win_rate": 0.75
+      },
+      "2022-08-01/2022-08-07": {
+        "trade_count": 8,
+        "net_profit": -9.920000000000016,
+        "avg_trade": -1.240000000000002,
+        "median_trade": -1.240000000000002,
+        "win_rate": 0.5
+      },
+      "2022-08-08/2022-08-14": {
+        "trade_count": 8,
+        "net_profit": 480.44000000000005,
+        "avg_trade": 60.05500000000001,
+        "median_trade": 69.03,
+        "win_rate": 0.75
+      },
+      "2022-08-15/2022-08-21": {
+        "trade_count": 8,
+        "net_profit": -709.84,
+        "avg_trade": -88.73,
+        "median_trade": -84.43,
+        "win_rate": 0.0
+      },
+      "2022-08-22/2022-08-28": {
+        "trade_count": 8,
+        "net_profit": 294.35999999999996,
+        "avg_trade": 36.794999999999995,
+        "median_trade": 74.82,
+        "win_rate": 0.75
+      },
+      "2022-08-29/2022-09-04": {
+        "trade_count": 6,
+        "net_profit": -236.88000000000005,
+        "avg_trade": -39.48000000000001,
+        "median_trade": -115.98,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-09-05/2022-09-11": {
+        "trade_count": 8,
+        "net_profit": 449.15999999999997,
+        "avg_trade": 56.144999999999996,
+        "median_trade": 113.52,
+        "win_rate": 0.75
+      },
+      "2022-09-12/2022-09-18": {
+        "trade_count": 4,
+        "net_profit": -4.920000000000016,
+        "avg_trade": -1.230000000000004,
+        "median_trade": -1.230000000000004,
+        "win_rate": 0.5
+      },
+      "2022-09-19/2022-09-25": {
+        "trade_count": 6,
+        "net_profit": -236.88000000000002,
+        "avg_trade": -39.480000000000004,
+        "median_trade": -115.98,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-09-26/2022-10-02": {
+        "trade_count": 8,
+        "net_profit": 456.91999999999996,
+        "avg_trade": 57.114999999999995,
+        "median_trade": 76.27,
+        "win_rate": 0.75
+      },
+      "2022-10-03/2022-10-09": {
+        "trade_count": 8,
+        "net_profit": -324.44,
+        "avg_trade": -40.555,
+        "median_trade": -79.88,
+        "win_rate": 0.25
+      },
+      "2022-10-10/2022-10-16": {
+        "trade_count": 8,
+        "net_profit": -170.04000000000002,
+        "avg_trade": -21.255000000000003,
+        "median_trade": -41.28,
+        "win_rate": 0.5
+      },
+      "2022-10-17/2022-10-23": {
+        "trade_count": 8,
+        "net_profit": 164.92000000000007,
+        "avg_trade": 20.61500000000001,
+        "median_trade": 42.43000000000001,
+        "win_rate": 0.5
+      },
+      "2022-10-24/2022-10-30": {
+        "trade_count": 8,
+        "net_profit": -468.8,
+        "avg_trade": -58.6,
+        "median_trade": -115.97,
+        "win_rate": 0.25
+      },
+      "2022-10-31/2022-11-06": {
+        "trade_count": 8,
+        "net_profit": 641.52,
+        "avg_trade": 80.19,
+        "median_trade": 113.53,
+        "win_rate": 0.75
+      },
+      "2022-11-07/2022-11-13": {
+        "trade_count": 8,
+        "net_profit": 570.56,
+        "avg_trade": 71.32,
+        "median_trade": 113.52,
+        "win_rate": 0.75
+      },
+      "2022-11-14/2022-11-20": {
+        "trade_count": 6,
+        "net_profit": -134.08000000000004,
+        "avg_trade": -22.346666666666675,
+        "median_trade": -64.58,
+        "win_rate": 0.3333333333333333
+      },
+      "2022-11-21/2022-11-27": {
+        "trade_count": 8,
+        "net_profit": -439.42,
+        "avg_trade": -54.9275,
+        "median_trade": -65.23,
+        "win_rate": 0.25
+      },
+      "2022-11-28/2022-12-04": {
+        "trade_count": 4,
+        "net_profit": -5.039999999999992,
+        "avg_trade": -1.259999999999998,
+        "median_trade": -1.259999999999998,
+        "win_rate": 0.5
+      },
+      "2022-12-05/2022-12-11": {
+        "trade_count": 8,
+        "net_profit": 239.2,
+        "avg_trade": 29.9,
+        "median_trade": 24.28,
+        "win_rate": 0.75
+      },
+      "2022-12-12/2022-12-18": {
+        "trade_count": 6,
+        "net_profit": 221.96,
+        "avg_trade": 36.99333333333333,
+        "median_trade": 113.5,
+        "win_rate": 0.6666666666666666
+      },
+      "2022-12-19/2022-12-25": {
+        "trade_count": 8,
+        "net_profit": -31.75999999999999,
+        "avg_trade": -3.969999999999999,
+        "median_trade": -6.67,
+        "win_rate": 0.5
+      },
+      "2022-12-26/2023-01-01": {
+        "trade_count": 8,
+        "net_profit": 487.04,
+        "avg_trade": 60.88,
+        "median_trade": 88.43,
+        "win_rate": 0.75
+      },
+      "2023-01-02/2023-01-08": {
+        "trade_count": 8,
+        "net_profit": 448.84000000000003,
+        "avg_trade": 56.105000000000004,
+        "median_trade": 113.48,
+        "win_rate": 0.75
+      },
+      "2023-01-09/2023-01-15": {
+        "trade_count": 8,
+        "net_profit": 269.44000000000005,
+        "avg_trade": 33.68000000000001,
+        "median_trade": 68.63,
+        "win_rate": 0.75
+      },
+      "2023-01-16/2023-01-22": {
+        "trade_count": 8,
+        "net_profit": -10.199999999999989,
+        "avg_trade": -1.2749999999999986,
+        "median_trade": -1.269999999999996,
+        "win_rate": 0.5
+      },
+      "2023-01-23/2023-01-29": {
+        "trade_count": 8,
+        "net_profit": -928.3600000000001,
+        "avg_trade": -116.04500000000002,
+        "median_trade": -116.04,
+        "win_rate": 0.0
+      },
+      "2023-01-30/2023-02-05": {
+        "trade_count": 6,
+        "net_profit": -237.28,
+        "avg_trade": -39.54666666666667,
+        "median_trade": -116.02,
+        "win_rate": 0.3333333333333333
+      },
+      "2023-02-06/2023-02-12": {
+        "trade_count": 8,
+        "net_profit": -0.15999999999996817,
+        "avg_trade": -0.01999999999999602,
+        "median_trade": 1.2300000000000004,
+        "win_rate": 0.5
+      },
+      "2023-02-13/2023-02-19": {
+        "trade_count": 8,
+        "net_profit": -77.75999999999999,
+        "avg_trade": -9.719999999999999,
+        "median_trade": -18.17,
+        "win_rate": 0.5
+      },
+      "2023-02-20/2023-02-26": {
+        "trade_count": 4,
+        "net_profit": -317.88,
+        "avg_trade": -79.47,
+        "median_trade": -79.47,
+        "win_rate": 0.0
+      },
+      "2023-02-27/2023-03-05": {
+        "trade_count": 8,
+        "net_profit": 208.04000000000002,
+        "avg_trade": 26.005000000000003,
+        "median_trade": 53.28,
+        "win_rate": 0.5
+      },
+      "2023-03-06/2023-03-12": {
+        "trade_count": 8,
+        "net_profit": 193.64000000000004,
+        "avg_trade": 24.205000000000005,
+        "median_trade": 49.68,
+        "win_rate": 0.5
+      },
+      "2023-03-13/2023-03-19": {
+        "trade_count": 8,
+        "net_profit": 448.76,
+        "avg_trade": 56.095,
+        "median_trade": 113.46,
+        "win_rate": 0.75
+      },
+      "2023-03-20/2023-03-26": {
+        "trade_count": 8,
+        "net_profit": -10.480000000000018,
+        "avg_trade": -1.3100000000000023,
+        "median_trade": -1.3100000000000023,
+        "win_rate": 0.5
+      },
+      "2023-03-27/2023-04-02": {
+        "trade_count": 4,
+        "net_profit": -340.43999999999994,
+        "avg_trade": -85.10999999999999,
+        "median_trade": -85.11,
+        "win_rate": 0.0
+      },
+      "2023-04-03/2023-04-09": {
+        "trade_count": 4,
+        "net_profit": -464.24,
+        "avg_trade": -116.06,
+        "median_trade": -116.06,
+        "win_rate": 0.0
+      },
+      "2023-04-10/2023-04-16": {
+        "trade_count": 8,
+        "net_profit": -10.480000000000018,
+        "avg_trade": -1.3100000000000023,
+        "median_trade": -1.3100000000000023,
+        "win_rate": 0.5
+      },
+      "2023-04-17/2023-04-23": {
+        "trade_count": 6,
+        "net_profit": 576.44,
+        "avg_trade": 96.07333333333334,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2023-04-24/2023-04-30": {
+        "trade_count": 8,
+        "net_profit": -928.48,
+        "avg_trade": -116.06,
+        "median_trade": -116.06,
+        "win_rate": 0.0
+      },
+      "2023-05-01/2023-05-07": {
+        "trade_count": 8,
+        "net_profit": 448.52,
+        "avg_trade": 56.065,
+        "median_trade": 113.44,
+        "win_rate": 0.75
+      },
+      "2023-05-08/2023-05-14": {
+        "trade_count": 4,
+        "net_profit": 453.76,
+        "avg_trade": 113.44,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2023-05-15/2023-05-21": {
+        "trade_count": 4,
+        "net_profit": -5.240000000000009,
+        "avg_trade": -1.3100000000000023,
+        "median_trade": -1.3100000000000023,
+        "win_rate": 0.5
+      },
+      "2023-05-22/2023-05-28": {
+        "trade_count": 8,
+        "net_profit": -337.48,
+        "avg_trade": -42.185,
+        "median_trade": -59.81,
+        "win_rate": 0.25
+      },
+      "2023-05-29/2023-06-04": {
+        "trade_count": 8,
+        "net_profit": 448.52,
+        "avg_trade": 56.065,
+        "median_trade": 113.44,
+        "win_rate": 0.75
+      },
+      "2023-06-05/2023-06-11": {
+        "trade_count": 6,
+        "net_profit": 115.03999999999998,
+        "avg_trade": 19.17333333333333,
+        "median_trade": 3.94,
+        "win_rate": 0.6666666666666666
+      },
+      "2023-06-12/2023-06-18": {
+        "trade_count": 4,
+        "net_profit": 184.95999999999998,
+        "avg_trade": 46.239999999999995,
+        "median_trade": 46.239999999999995,
+        "win_rate": 0.5
+      },
+      "2023-06-19/2023-06-25": {
+        "trade_count": 4,
+        "net_profit": 130.04000000000002,
+        "avg_trade": 32.510000000000005,
+        "median_trade": 32.510000000000005,
+        "win_rate": 0.5
+      },
+      "2023-06-26/2023-07-02": {
+        "trade_count": 6,
+        "net_profit": -337.32,
+        "avg_trade": -56.22,
+        "median_trade": -116.02,
+        "win_rate": 0.3333333333333333
+      },
+      "2023-07-03/2023-07-09": {
+        "trade_count": 8,
+        "net_profit": -212.33999999999997,
+        "avg_trade": -26.542499999999997,
+        "median_trade": -53.17,
+        "win_rate": 0.5
+      },
+      "2023-07-10/2023-07-16": {
+        "trade_count": 8,
+        "net_profit": 260.9599999999999,
+        "avg_trade": 32.61999999999999,
+        "median_trade": 66.53999999999999,
+        "win_rate": 0.75
+      },
+      "2023-07-17/2023-07-23": {
+        "trade_count": 6,
+        "net_profit": -44.960000000000036,
+        "avg_trade": -7.493333333333339,
+        "median_trade": -19.86,
+        "win_rate": 0.3333333333333333
+      },
+      "2023-07-24/2023-07-30": {
+        "trade_count": 6,
+        "net_profit": 590.04,
+        "avg_trade": 98.33999999999999,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2023-07-31/2023-08-06": {
+        "trade_count": 2,
+        "net_profit": -232.08,
+        "avg_trade": -116.04,
+        "median_trade": -116.04,
+        "win_rate": 0.0
+      },
+      "2023-08-07/2023-08-13": {
+        "trade_count": 6,
+        "net_profit": -436.92,
+        "avg_trade": -72.82000000000001,
+        "median_trade": -65.82000000000001,
+        "win_rate": 0.0
+      },
+      "2023-08-14/2023-08-20": {
+        "trade_count": 8,
+        "net_profit": -554.76,
+        "avg_trade": -69.345,
+        "median_trade": -67.62,
+        "win_rate": 0.0
+      },
+      "2023-08-21/2023-08-27": {
+        "trade_count": 8,
+        "net_profit": 1.0400000000000205,
+        "avg_trade": 0.13000000000000256,
+        "median_trade": 1.5299999999999985,
+        "win_rate": 0.5
+      },
+      "2023-08-28/2023-09-03": {
+        "trade_count": 6,
+        "net_profit": 338.28000000000003,
+        "avg_trade": 56.38,
+        "median_trade": 113.44,
+        "win_rate": 0.6666666666666666
+      },
+      "2023-09-04/2023-09-10": {
+        "trade_count": 2,
+        "net_profit": -130.9,
+        "avg_trade": -65.45,
+        "median_trade": -65.45,
+        "win_rate": 0.0
+      },
+      "2023-09-11/2023-09-17": {
+        "trade_count": 4,
+        "net_profit": 39.53999999999999,
+        "avg_trade": 9.884999999999998,
+        "median_trade": 11.240000000000002,
+        "win_rate": 0.5
+      },
+      "2023-09-18/2023-09-24": {
+        "trade_count": 4,
+        "net_profit": -380.52,
+        "avg_trade": -95.13,
+        "median_trade": -92.42,
+        "win_rate": 0.0
+      },
+      "2023-10-09/2023-10-15": {
+        "trade_count": 8,
+        "net_profit": 486.58,
+        "avg_trade": 60.8225,
+        "median_trade": 68.97,
+        "win_rate": 0.75
+      },
+      "2023-10-16/2023-10-22": {
+        "trade_count": 8,
+        "net_profit": 680.66,
+        "avg_trade": 85.0825,
+        "median_trade": 113.44,
+        "win_rate": 0.875
+      },
+      "2023-10-23/2023-10-29": {
+        "trade_count": 6,
+        "net_profit": -696.3599999999999,
+        "avg_trade": -116.05999999999999,
+        "median_trade": -116.06,
+        "win_rate": 0.0
+      },
+      "2023-10-30/2023-11-05": {
+        "trade_count": 6,
+        "net_profit": -696.3599999999999,
+        "avg_trade": -116.05999999999999,
+        "median_trade": -116.06,
+        "win_rate": 0.0
+      },
+      "2023-11-06/2023-11-12": {
+        "trade_count": 2,
+        "net_profit": -111.9,
+        "avg_trade": -55.95,
+        "median_trade": -55.95,
+        "win_rate": 0.0
+      },
+      "2023-11-13/2023-11-19": {
+        "trade_count": 6,
+        "net_profit": 354.64,
+        "avg_trade": 59.10666666666666,
+        "median_trade": 113.44,
+        "win_rate": 0.6666666666666666
+      },
+      "2023-11-20/2023-11-26": {
+        "trade_count": 6,
+        "net_profit": -62.74000000000001,
+        "avg_trade": -10.456666666666669,
+        "median_trade": -28.75,
+        "win_rate": 0.3333333333333333
+      },
+      "2023-11-27/2023-12-03": {
+        "trade_count": 10,
+        "net_profit": 72.82,
+        "avg_trade": 7.281999999999999,
+        "median_trade": 41.65,
+        "win_rate": 0.6
+      },
+      "2023-12-04/2023-12-10": {
+        "trade_count": 8,
+        "net_profit": -281.68,
+        "avg_trade": -35.21,
+        "median_trade": -69.11,
+        "win_rate": 0.25
+      },
+      "2023-12-11/2023-12-17": {
+        "trade_count": 8,
+        "net_profit": 103.11999999999999,
+        "avg_trade": 12.889999999999999,
+        "median_trade": 27.09,
+        "win_rate": 0.5
+      },
+      "2023-12-18/2023-12-24": {
+        "trade_count": 8,
+        "net_profit": 405.72,
+        "avg_trade": 50.715,
+        "median_trade": 102.74000000000001,
+        "win_rate": 0.75
+      },
+      "2023-12-25/2023-12-31": {
+        "trade_count": 8,
+        "net_profit": -77.19999999999999,
+        "avg_trade": -9.649999999999999,
+        "median_trade": -17.97,
+        "win_rate": 0.5
+      },
+      "2024-01-01/2024-01-07": {
+        "trade_count": 8,
+        "net_profit": -718.88,
+        "avg_trade": -89.86,
+        "median_trade": -116.06,
+        "win_rate": 0.0
+      },
+      "2024-01-08/2024-01-14": {
+        "trade_count": 6,
+        "net_profit": -71.75999999999999,
+        "avg_trade": -11.959999999999999,
+        "median_trade": -33.26,
+        "win_rate": 0.3333333333333333
+      },
+      "2024-01-15/2024-01-21": {
+        "trade_count": 6,
+        "net_profit": 221.64,
+        "avg_trade": 36.94,
+        "median_trade": 113.44,
+        "win_rate": 0.6666666666666666
+      },
+      "2024-01-29/2024-02-04": {
+        "trade_count": 6,
+        "net_profit": 221.64,
+        "avg_trade": 36.94,
+        "median_trade": 113.44,
+        "win_rate": 0.6666666666666666
+      },
+      "2024-02-05/2024-02-11": {
+        "trade_count": 2,
+        "net_profit": 226.88,
+        "avg_trade": 113.44,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2024-02-12/2024-02-18": {
+        "trade_count": 6,
+        "net_profit": 607.6400000000001,
+        "avg_trade": 101.27333333333335,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2024-02-19/2024-02-25": {
+        "trade_count": 6,
+        "net_profit": 112.24000000000001,
+        "avg_trade": 18.706666666666667,
+        "median_trade": -22.06,
+        "win_rate": 0.3333333333333333
+      },
+      "2024-02-26/2024-03-03": {
+        "trade_count": 2,
+        "net_profit": 226.88,
+        "avg_trade": 113.44,
+        "median_trade": 113.44,
+        "win_rate": 1.0
+      },
+      "2024-03-04/2024-03-10": {
+        "trade_count": 8,
+        "net_profit": 907.2,
+        "avg_trade": 113.4,
+        "median_trade": 113.4,
+        "win_rate": 1.0
+      },
+      "2024-03-11/2024-03-17": {
+        "trade_count": 8,
+        "net_profit": -392.19999999999993,
+        "avg_trade": -49.02499999999999,
+        "median_trade": -96.69999999999999,
+        "win_rate": 0.25
+      },
+      "2024-03-18/2024-03-24": {
+        "trade_count": 8,
+        "net_profit": -10.799999999999955,
+        "avg_trade": -1.3499999999999943,
+        "median_trade": -1.3499999999999943,
+        "win_rate": 0.5
+      },
+      "2024-03-25/2024-03-31": {
+        "trade_count": 4,
+        "net_profit": 453.6,
+        "avg_trade": 113.4,
+        "median_trade": 113.4,
+        "win_rate": 1.0
+      },
+      "2024-04-01/2024-04-07": {
+        "trade_count": 8,
+        "net_profit": -11.120000000000005,
+        "avg_trade": -1.3900000000000006,
+        "median_trade": -1.3900000000000006,
+        "win_rate": 0.5
+      },
+      "2024-04-08/2024-04-14": {
+        "trade_count": 8,
+        "net_profit": -11.200000000000017,
+        "avg_trade": -1.4000000000000021,
+        "median_trade": -1.4100000000000037,
+        "win_rate": 0.5
+      },
+      "2024-04-15/2024-04-21": {
+        "trade_count": 8,
+        "net_profit": -470.44000000000005,
+        "avg_trade": -58.80500000000001,
+        "median_trade": -116.18,
+        "win_rate": 0.25
+      },
+      "2024-04-22/2024-04-28": {
+        "trade_count": 8,
+        "net_profit": 447.88,
+        "avg_trade": 55.985,
+        "median_trade": 113.36,
+        "win_rate": 0.75
+      },
+      "2024-04-29/2024-05-05": {
+        "trade_count": 6,
+        "net_profit": -237.84,
+        "avg_trade": -39.64,
+        "median_trade": -116.14,
+        "win_rate": 0.3333333333333333
+      },
+      "2024-05-06/2024-05-12": {
+        "trade_count": 4,
+        "net_profit": -5.599999999999994,
+        "avg_trade": -1.3999999999999986,
+        "median_trade": -1.3999999999999986,
+        "win_rate": 0.5
+      },
+      "2024-05-13/2024-05-19": {
+        "trade_count": 8,
+        "net_profit": 447.64,
+        "avg_trade": 55.955,
+        "median_trade": 113.32,
+        "win_rate": 0.75
+      },
+      "2024-05-20/2024-05-26": {
+        "trade_count": 6,
+        "net_profit": -360.4,
+        "avg_trade": -60.06666666666666,
+        "median_trade": -46.14,
+        "win_rate": 0.0
+      },
+      "2024-05-27/2024-06-02": {
+        "trade_count": 8,
+        "net_profit": 267.16,
+        "avg_trade": 33.395,
+        "median_trade": 68.2,
+        "win_rate": 0.75
+      },
+      "2024-06-03/2024-06-09": {
+        "trade_count": 6,
+        "net_profit": 680.04,
+        "avg_trade": 113.33999999999999,
+        "median_trade": 113.34,
+        "win_rate": 1.0
+      },
+      "2024-06-10/2024-06-16": {
+        "trade_count": 8,
+        "net_profit": 23.079999999999984,
+        "avg_trade": 2.884999999999998,
+        "median_trade": 7.159999999999998,
+        "win_rate": 0.5
+      },
+      "2024-06-17/2024-06-23": {
+        "trade_count": 2,
+        "net_profit": -232.32,
+        "avg_trade": -116.16,
+        "median_trade": -116.16,
+        "win_rate": 0.0
+      },
+      "2024-06-24/2024-06-30": {
+        "trade_count": 6,
+        "net_profit": 221.16,
+        "avg_trade": 36.86,
+        "median_trade": 113.36,
+        "win_rate": 0.6666666666666666
+      },
+      "2024-07-01/2024-07-07": {
+        "trade_count": 8,
+        "net_profit": 88.53999999999999,
+        "avg_trade": 11.067499999999999,
+        "median_trade": 24.889999999999997,
+        "win_rate": 0.5
+      },
+      "2024-07-08/2024-07-14": {
+        "trade_count": 8,
+        "net_profit": 214.99999999999997,
+        "avg_trade": 26.874999999999996,
+        "median_trade": 55.169999999999995,
+        "win_rate": 0.5
+      },
+      "2024-07-15/2024-07-21": {
+        "trade_count": 6,
+        "net_profit": -238.08000000000004,
+        "avg_trade": -39.68000000000001,
+        "median_trade": -116.18,
+        "win_rate": 0.3333333333333333
+      },
+      "2024-07-22/2024-07-28": {
+        "trade_count": 6,
+        "net_profit": 679.9199999999998,
+        "avg_trade": 113.31999999999998,
+        "median_trade": 113.32,
+        "win_rate": 1.0
+      },
+      "2024-07-29/2024-08-04": {
+        "trade_count": 8,
+        "net_profit": 447.55999999999995,
+        "avg_trade": 55.94499999999999,
+        "median_trade": 113.32,
+        "win_rate": 0.75
+      },
+      "2024-08-05/2024-08-11": {
+        "trade_count": 8,
+        "net_profit": 308.76,
+        "avg_trade": 38.595,
+        "median_trade": 78.62,
+        "win_rate": 0.75
+      },
+      "2024-08-12/2024-08-18": {
+        "trade_count": 8,
+        "net_profit": 207.95999999999995,
+        "avg_trade": 25.994999999999994,
+        "median_trade": 53.419999999999995,
+        "win_rate": 0.5
+      },
+      "2024-08-19/2024-08-25": {
+        "trade_count": 8,
+        "net_profit": -11.680000000000007,
+        "avg_trade": -1.4600000000000009,
+        "median_trade": -1.4600000000000009,
+        "win_rate": 0.5
+      },
+      "2024-09-02/2024-09-08": {
+        "trade_count": 8,
+        "net_profit": -11.600000000000023,
+        "avg_trade": -1.4500000000000028,
+        "median_trade": -1.4500000000000028,
+        "win_rate": 0.5
+      },
+      "2024-09-09/2024-09-15": {
+        "trade_count": 8,
+        "net_profit": 447.24,
+        "avg_trade": 55.905,
+        "median_trade": 113.28,
+        "win_rate": 0.75
+      },
+      "2024-09-16/2024-09-22": {
+        "trade_count": 8,
+        "net_profit": 447.24,
+        "avg_trade": 55.905,
+        "median_trade": 113.28,
+        "win_rate": 0.75
+      },
+      "2024-09-23/2024-09-29": {
+        "trade_count": 8,
+        "net_profit": 446.99999999999994,
+        "avg_trade": 55.87499999999999,
+        "median_trade": 113.24,
+        "win_rate": 0.75
+      },
+      "2024-09-30/2024-10-06": {
+        "trade_count": 8,
+        "net_profit": -289.64,
+        "avg_trade": -36.205,
+        "median_trade": -70.91,
+        "win_rate": 0.25
+      },
+      "2024-10-07/2024-10-13": {
+        "trade_count": 4,
+        "net_profit": -5.9199999999999875,
+        "avg_trade": -1.4799999999999969,
+        "median_trade": -1.4799999999999969,
+        "win_rate": 0.5
+      },
+      "2024-10-14/2024-10-20": {
+        "trade_count": 8,
+        "net_profit": 905.92,
+        "avg_trade": 113.24,
+        "median_trade": 113.24,
+        "win_rate": 1.0
+      },
+      "2024-10-21/2024-10-27": {
+        "trade_count": 8,
+        "net_profit": 446.91999999999996,
+        "avg_trade": 55.864999999999995,
+        "median_trade": 113.24,
+        "win_rate": 0.75
+      },
+      "2024-10-28/2024-11-03": {
+        "trade_count": 6,
+        "net_profit": 134.0,
+        "avg_trade": 22.333333333333332,
+        "median_trade": 70.02,
+        "win_rate": 0.6666666666666666
+      },
+      "2024-11-04/2024-11-10": {
+        "trade_count": 8,
+        "net_profit": -173.88000000000002,
+        "avg_trade": -21.735000000000003,
+        "median_trade": -41.96,
+        "win_rate": 0.5
+      },
+      "2024-11-11/2024-11-17": {
+        "trade_count": 8,
+        "net_profit": -11.759999999999991,
+        "avg_trade": -1.4699999999999989,
+        "median_trade": -1.4699999999999989,
+        "win_rate": 0.5
+      },
+      "2024-11-18/2024-11-24": {
+        "trade_count": 8,
+        "net_profit": 447.08,
+        "avg_trade": 55.885,
+        "median_trade": 113.24,
+        "win_rate": 0.75
+      },
+      "2024-11-25/2024-12-01": {
+        "trade_count": 8,
+        "net_profit": 906.08,
+        "avg_trade": 113.26,
+        "median_trade": 113.26,
+        "win_rate": 1.0
+      },
+      "2024-12-09/2024-12-15": {
+        "trade_count": 8,
+        "net_profit": -471.08000000000004,
+        "avg_trade": -58.885000000000005,
+        "median_trade": -116.26,
+        "win_rate": 0.25
+      },
+      "2024-12-16/2024-12-22": {
+        "trade_count": 8,
+        "net_profit": -470.88,
+        "avg_trade": -58.86,
+        "median_trade": -116.22999999999999,
+        "win_rate": 0.25
+      },
+      "2024-12-23/2024-12-29": {
+        "trade_count": 6,
+        "net_profit": -64.5,
+        "avg_trade": -10.75,
+        "median_trade": -29.310000000000002,
+        "win_rate": 0.3333333333333333
+      },
+      "2024-12-30/2025-01-05": {
+        "trade_count": 6,
+        "net_profit": 220.60000000000002,
+        "avg_trade": 36.76666666666667,
+        "median_trade": 113.28,
+        "win_rate": 0.6666666666666666
+      },
+      "2025-01-06/2025-01-12": {
+        "trade_count": 8,
+        "net_profit": 905.96,
+        "avg_trade": 113.245,
+        "median_trade": 113.24,
+        "win_rate": 1.0
+      },
+      "2025-01-13/2025-01-19": {
+        "trade_count": 8,
+        "net_profit": 383.11999999999995,
+        "avg_trade": 47.88999999999999,
+        "median_trade": 97.28999999999999,
+        "win_rate": 0.75
+      },
+      "2025-01-20/2025-01-26": {
+        "trade_count": 8,
+        "net_profit": 658.12,
+        "avg_trade": 82.265,
+        "median_trade": 113.24,
+        "win_rate": 0.75
+      },
+      "2025-01-27/2025-02-02": {
+        "trade_count": 8,
+        "net_profit": 446.84,
+        "avg_trade": 55.855,
+        "median_trade": 113.22,
+        "win_rate": 0.75
+      },
+      "2025-02-03/2025-02-09": {
+        "trade_count": 8,
+        "net_profit": -12.399999999999977,
+        "avg_trade": -1.5499999999999972,
+        "median_trade": -1.5499999999999972,
+        "win_rate": 0.5
+      },
+      "2025-02-10/2025-02-16": {
+        "trade_count": 8,
+        "net_profit": 220.76000000000002,
+        "avg_trade": 27.595000000000002,
+        "median_trade": 56.75,
+        "win_rate": 0.75
+      },
+      "2025-02-17/2025-02-23": {
+        "trade_count": 8,
+        "net_profit": -12.599999999999994,
+        "avg_trade": -1.5749999999999993,
+        "median_trade": -1.5799999999999983,
+        "win_rate": 0.5
+      },
+      "2025-02-24/2025-03-02": {
+        "trade_count": 4,
+        "net_profit": -465.2,
+        "avg_trade": -116.3,
+        "median_trade": -116.3,
+        "win_rate": 0.0
+      },
+      "2025-03-03/2025-03-09": {
+        "trade_count": 8,
+        "net_profit": -12.399999999999977,
+        "avg_trade": -1.5499999999999972,
+        "median_trade": -1.5499999999999972,
+        "win_rate": 0.5
+      },
+      "2025-03-10/2025-03-16": {
+        "trade_count": 6,
+        "net_profit": 679.04,
+        "avg_trade": 113.17333333333333,
+        "median_trade": 113.16,
+        "win_rate": 1.0
+      },
+      "2025-03-17/2025-03-23": {
+        "trade_count": 6,
+        "net_profit": -239.04000000000002,
+        "avg_trade": -39.84,
+        "median_trade": -116.34,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-03-24/2025-03-30": {
+        "trade_count": 8,
+        "net_profit": 446.28,
+        "avg_trade": 55.785,
+        "median_trade": 113.16,
+        "win_rate": 0.75
+      },
+      "2025-03-31/2025-04-06": {
+        "trade_count": 8,
+        "net_profit": 445.96000000000004,
+        "avg_trade": 55.745000000000005,
+        "median_trade": 113.12,
+        "win_rate": 0.75
+      },
+      "2025-04-07/2025-04-13": {
+        "trade_count": 8,
+        "net_profit": -12.920000000000016,
+        "avg_trade": -1.615000000000002,
+        "median_trade": -1.6099999999999994,
+        "win_rate": 0.5
+      },
+      "2025-04-14/2025-04-20": {
+        "trade_count": 6,
+        "net_profit": 219.47999999999996,
+        "avg_trade": 36.57999999999999,
+        "median_trade": 113.08,
+        "win_rate": 0.6666666666666666
+      },
+      "2025-04-21/2025-04-27": {
+        "trade_count": 4,
+        "net_profit": 452.24,
+        "avg_trade": 113.06,
+        "median_trade": 113.06,
+        "win_rate": 1.0
+      },
+      "2025-04-28/2025-05-04": {
+        "trade_count": 2,
+        "net_profit": 226.16,
+        "avg_trade": 113.08,
+        "median_trade": 113.08,
+        "win_rate": 1.0
+      },
+      "2025-05-05/2025-05-11": {
+        "trade_count": 8,
+        "net_profit": -13.519999999999982,
+        "avg_trade": -1.6899999999999977,
+        "median_trade": -1.6899999999999977,
+        "win_rate": 0.5
+      },
+      "2025-05-12/2025-05-18": {
+        "trade_count": 6,
+        "net_profit": -239.44,
+        "avg_trade": -39.906666666666666,
+        "median_trade": -116.42,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-05-19/2025-05-25": {
+        "trade_count": 8,
+        "net_profit": 445.64,
+        "avg_trade": 55.705,
+        "median_trade": 113.08,
+        "win_rate": 0.75
+      },
+      "2025-05-26/2025-06-01": {
+        "trade_count": 6,
+        "net_profit": -239.52000000000004,
+        "avg_trade": -39.92000000000001,
+        "median_trade": -116.42,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-06-02/2025-06-08": {
+        "trade_count": 4,
+        "net_profit": -465.79999999999995,
+        "avg_trade": -116.44999999999999,
+        "median_trade": -116.44999999999999,
+        "win_rate": 0.0
+      },
+      "2025-06-09/2025-06-15": {
+        "trade_count": 2,
+        "net_profit": 226.08,
+        "avg_trade": 113.04,
+        "median_trade": 113.04,
+        "win_rate": 1.0
+      },
+      "2025-06-16/2025-06-22": {
+        "trade_count": 6,
+        "net_profit": -386.56,
+        "avg_trade": -64.42666666666666,
+        "median_trade": -116.46,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-06-23/2025-06-29": {
+        "trade_count": 4,
+        "net_profit": -6.680000000000007,
+        "avg_trade": -1.6700000000000017,
+        "median_trade": -1.6700000000000017,
+        "win_rate": 0.5
+      },
+      "2025-06-30/2025-07-06": {
+        "trade_count": 6,
+        "net_profit": -239.56,
+        "avg_trade": -39.92666666666667,
+        "median_trade": -116.42,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-07-07/2025-07-13": {
+        "trade_count": 8,
+        "net_profit": 712.8599999999999,
+        "avg_trade": 89.10749999999999,
+        "median_trade": 113.08,
+        "win_rate": 1.0
+      },
+      "2025-07-14/2025-07-20": {
+        "trade_count": 6,
+        "net_profit": 4.440000000000001,
+        "avg_trade": 0.7400000000000002,
+        "median_trade": 5.58,
+        "win_rate": 0.6666666666666666
+      },
+      "2025-07-21/2025-07-27": {
+        "trade_count": 6,
+        "net_profit": -637.16,
+        "avg_trade": -106.19333333333333,
+        "median_trade": -116.46,
+        "win_rate": 0.0
+      },
+      "2025-07-28/2025-08-03": {
+        "trade_count": 6,
+        "net_profit": 678.48,
+        "avg_trade": 113.08,
+        "median_trade": 113.08,
+        "win_rate": 1.0
+      },
+      "2025-08-04/2025-08-10": {
+        "trade_count": 8,
+        "net_profit": -472.67999999999995,
+        "avg_trade": -59.084999999999994,
+        "median_trade": -116.46,
+        "win_rate": 0.25
+      },
+      "2025-08-11/2025-08-17": {
+        "trade_count": 8,
+        "net_profit": 110.88000000000002,
+        "avg_trade": 13.860000000000003,
+        "median_trade": 29.410000000000004,
+        "win_rate": 0.5
+      },
+      "2025-08-18/2025-08-24": {
+        "trade_count": 2,
+        "net_profit": 226.16,
+        "avg_trade": 113.08,
+        "median_trade": 113.08,
+        "win_rate": 1.0
+      },
+      "2025-08-25/2025-08-31": {
+        "trade_count": 6,
+        "net_profit": 678.24,
+        "avg_trade": 113.04,
+        "median_trade": 113.04,
+        "win_rate": 1.0
+      },
+      "2025-09-01/2025-09-07": {
+        "trade_count": 8,
+        "net_profit": 445.08000000000004,
+        "avg_trade": 55.635000000000005,
+        "median_trade": 113.0,
+        "win_rate": 0.75
+      },
+      "2025-09-08/2025-09-14": {
+        "trade_count": 8,
+        "net_profit": 444.8,
+        "avg_trade": 55.6,
+        "median_trade": 112.97,
+        "win_rate": 0.75
+      },
+      "2025-09-15/2025-09-21": {
+        "trade_count": 8,
+        "net_profit": -14.28000000000003,
+        "avg_trade": -1.7850000000000037,
+        "median_trade": -1.7800000000000011,
+        "win_rate": 0.5
+      },
+      "2025-09-22/2025-09-28": {
+        "trade_count": 8,
+        "net_profit": -473.32000000000005,
+        "avg_trade": -59.165000000000006,
+        "median_trade": -116.54,
+        "win_rate": 0.25
+      },
+      "2025-09-29/2025-10-05": {
+        "trade_count": 8,
+        "net_profit": 444.36,
+        "avg_trade": 55.545,
+        "median_trade": 112.92,
+        "win_rate": 0.75
+      },
+      "2025-10-06/2025-10-12": {
+        "trade_count": 8,
+        "net_profit": 444.03999999999996,
+        "avg_trade": 55.504999999999995,
+        "median_trade": 112.88,
+        "win_rate": 0.75
+      },
+      "2025-10-13/2025-10-19": {
+        "trade_count": 8,
+        "net_profit": 902.48,
+        "avg_trade": 112.81,
+        "median_trade": 112.82,
+        "win_rate": 1.0
+      },
+      "2025-10-20/2025-10-26": {
+        "trade_count": 8,
+        "net_profit": -474.43999999999994,
+        "avg_trade": -59.30499999999999,
+        "median_trade": -116.66,
+        "win_rate": 0.25
+      },
+      "2025-10-27/2025-11-02": {
+        "trade_count": 8,
+        "net_profit": -473.96000000000004,
+        "avg_trade": -59.245000000000005,
+        "median_trade": -116.62,
+        "win_rate": 0.25
+      },
+      "2025-11-03/2025-11-09": {
+        "trade_count": 8,
+        "net_profit": -14.960000000000036,
+        "avg_trade": -1.8700000000000045,
+        "median_trade": -1.8700000000000045,
+        "win_rate": 0.5
+      },
+      "2025-11-10/2025-11-16": {
+        "trade_count": 8,
+        "net_profit": -15.279999999999973,
+        "avg_trade": -1.9099999999999966,
+        "median_trade": -1.9099999999999966,
+        "win_rate": 0.5
+      },
+      "2025-11-17/2025-11-23": {
+        "trade_count": 8,
+        "net_profit": 443.84000000000003,
+        "avg_trade": 55.480000000000004,
+        "median_trade": 112.85,
+        "win_rate": 0.75
+      },
+      "2025-11-24/2025-11-30": {
+        "trade_count": 8,
+        "net_profit": 443.72,
+        "avg_trade": 55.465,
+        "median_trade": 112.84,
+        "win_rate": 0.75
+      },
+      "2025-12-01/2025-12-07": {
+        "trade_count": 6,
+        "net_profit": -241.04000000000002,
+        "avg_trade": -40.17333333333334,
+        "median_trade": -116.66,
+        "win_rate": 0.3333333333333333
+      },
+      "2025-12-08/2025-12-14": {
+        "trade_count": 2,
+        "net_profit": 225.6,
+        "avg_trade": 112.8,
+        "median_trade": 112.8,
+        "win_rate": 1.0
+      },
+      "2025-12-15/2025-12-21": {
+        "trade_count": 8,
+        "net_profit": -15.600000000000023,
+        "avg_trade": -1.9500000000000028,
+        "median_trade": -1.9500000000000028,
+        "win_rate": 0.5
+      },
+      "2025-12-22/2025-12-28": {
+        "trade_count": 6,
+        "net_profit": 217.48,
+        "avg_trade": 36.24666666666666,
+        "median_trade": 112.74,
+        "win_rate": 0.6666666666666666
+      },
+      "2025-12-29/2026-01-04": {
+        "trade_count": 6,
+        "net_profit": 217.64000000000001,
+        "avg_trade": 36.27333333333333,
+        "median_trade": 112.76,
+        "win_rate": 0.6666666666666666
+      },
+      "2026-01-05/2026-01-11": {
+        "trade_count": 6,
+        "net_profit": -241.43999999999997,
+        "avg_trade": -40.239999999999995,
+        "median_trade": -116.74,
+        "win_rate": 0.3333333333333333
+      },
+      "2026-01-12/2026-01-18": {
+        "trade_count": 8,
+        "net_profit": -16.24000000000001,
+        "avg_trade": -2.030000000000001,
+        "median_trade": -2.030000000000001,
+        "win_rate": 0.5
+      },
+      "2026-01-19/2026-01-25": {
+        "trade_count": 8,
+        "net_profit": 442.20000000000005,
+        "avg_trade": 55.275000000000006,
+        "median_trade": 112.66,
+        "win_rate": 0.75
+      },
+      "2026-01-26/2026-02-01": {
+        "trade_count": 6,
+        "net_profit": -242.88,
+        "avg_trade": -40.48,
+        "median_trade": -116.98,
+        "win_rate": 0.3333333333333333
+      },
+      "2026-02-02/2026-02-08": {
+        "trade_count": 8,
+        "net_profit": 442.0,
+        "avg_trade": 55.25,
+        "median_trade": 112.6,
+        "win_rate": 0.75
+      },
+      "2026-02-09/2026-02-15": {
+        "trade_count": 2,
+        "net_profit": -233.8,
+        "avg_trade": -116.9,
+        "median_trade": -116.9,
+        "win_rate": 0.0
+      },
+      "2026-02-16/2026-02-22": {
+        "trade_count": 6,
+        "net_profit": 216.68000000000004,
+        "avg_trade": 36.11333333333334,
+        "median_trade": 112.6,
+        "win_rate": 0.6666666666666666
+      },
+      "2026-02-23/2026-03-01": {
+        "trade_count": 1,
+        "net_profit": 112.56,
+        "avg_trade": 112.56,
+        "median_trade": 112.56,
+        "win_rate": 1.0
+      },
+      "2026-03-02/2026-03-08": {
+        "trade_count": 4,
+        "net_profit": -8.819999999999993,
+        "avg_trade": -2.2049999999999983,
+        "median_trade": -2.1899999999999977,
+        "win_rate": 0.5
+      },
+      "2026-03-09/2026-03-15": {
+        "trade_count": 2,
+        "net_profit": 225.12,
+        "avg_trade": 112.56,
+        "median_trade": 112.56,
+        "win_rate": 1.0
+      }
+    }
+  }
+}

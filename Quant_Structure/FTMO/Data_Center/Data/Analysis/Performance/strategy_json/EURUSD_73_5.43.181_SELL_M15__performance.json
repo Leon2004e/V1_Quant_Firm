@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURUSD_73_5.43.181_SELL_M15",
+  "features": {
+    "strategy_id": "EURUSD_73_5.43.181_SELL_M15",
+    "trade_count_total": 941,
+    "trade_count_is": 585,
+    "trade_count_oos": 356,
+    "active_months": 57,
+    "trades_per_month": 16.50877192982456,
+    "net_profit_total": 1043.76,
+    "net_profit_is": 642.3599999999999,
+    "net_profit_oos": 401.4,
+    "win_rate_total": 0.6078639744952179,
+    "win_rate_is": 0.6,
+    "win_rate_oos": 0.6207865168539326,
+    "avg_win_total": 17.197762237762237,
+    "avg_loss_total": -23.830243902439026,
+    "payoff_ratio_total": 0.7216779781260252,
+    "expectancy_total": 1.1092029755579171,
+    "expectancy_is": 1.0980512820512818,
+    "expectancy_oos": 1.1275280898876403,
+    "profit_factor_total": 1.1186986544392588,
+    "profit_factor_is": 1.116201998567283,
+    "profit_factor_oos": 1.122925215900043,
+    "first_trade_time_utc": "2021-07-06T06:28:40+00:00",
+    "last_trade_time_utc": "2026-03-12T15:36:40+00:00"
+  }
+}

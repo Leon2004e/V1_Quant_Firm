@@ -1,0 +1,337 @@
+{
+  "model_type": "pure_performance_random_rank_weighted_search_v1",
+  "features_source": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data\\Analysis\\Performance\\performance_features.csv",
+  "search_config": {
+    "random_seed": 42,
+    "n_candidates": 5000,
+    "min_features_per_model": 3,
+    "max_features_per_model": 7,
+    "top_quantile": 0.2,
+    "min_rows_required": 10,
+    "min_trade_count_total": 30,
+    "min_trade_count_oos": 10,
+    "min_active_months": 3,
+    "top_models_for_analysis": 100
+  },
+  "objective_weights": {
+    "spearman": 0.5,
+    "spread": 0.25,
+    "top_mean": 0.15,
+    "complexity_penalty": 0.05,
+    "concentration_penalty": 0.05
+  },
+  "proxy_target_weights": {
+    "rank__profit_factor_oos": 0.22,
+    "rank__expectancy_oos": 0.2,
+    "rank__net_profit_oos": 0.16,
+    "rank__win_rate_oos": 0.12,
+    "rank__payoff_ratio_total": 0.1,
+    "rank__trade_count_oos": 0.1,
+    "rank__active_months": 0.05,
+    "rank__trades_per_month": 0.05
+  },
+  "n_input_rows_after_filter": 74,
+  "proxy_target_summary": {
+    "mean": 0.5067567567567568,
+    "std": 0.19050231603164425,
+    "min": 0.1683783783783784,
+    "max": 0.899527027027027
+  },
+  "best_model": {
+    "rank": 1,
+    "objective": 0.7460968229705,
+    "spearman_score_vs_target": 0.9949721208444748,
+    "pearson_score_vs_target": 0.9953125779556572,
+    "top_bucket_target_mean": 0.7735569498069497,
+    "bottom_bucket_target_mean": 0.24324806949806957,
+    "top_bottom_spread": 0.5303088803088801,
+    "complexity_penalty": 0.0,
+    "concentration_penalty": 0.0,
+    "max_weight": 0.4169440536971588,
+    "weight_entropy": 1.076885179986398,
+    "effective_n_features": 2.876694734283566,
+    "n_features": 3,
+    "features": "rank__profit_factor_oos|rank__trade_count_total|rank__expectancy_oos",
+    "weights": "0.41694405|0.24792917|0.33512678"
+  },
+  "top_models_preview": [
+    {
+      "rank": 1,
+      "objective": 0.7460968229705,
+      "spearman_score_vs_target": 0.9949721208444748,
+      "pearson_score_vs_target": 0.9953125779556572,
+      "top_bucket_target_mean": 0.7735569498069497,
+      "bottom_bucket_target_mean": 0.24324806949806957,
+      "top_bottom_spread": 0.5303088803088801,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.0,
+      "max_weight": 0.4169440536971588,
+      "weight_entropy": 1.076885179986398,
+      "effective_n_features": 2.876694734283566,
+      "n_features": 3,
+      "features": "rank__profit_factor_oos|rank__trade_count_total|rank__expectancy_oos",
+      "weights": "0.41694405|0.24792917|0.33512678"
+    },
+    {
+      "rank": 2,
+      "objective": 0.7459540124634465,
+      "spearman_score_vs_target": 0.9959347486703692,
+      "pearson_score_vs_target": 0.9952547720503122,
+      "top_bucket_target_mean": 0.7751785714285714,
+      "bottom_bucket_target_mean": 0.2416409266409267,
+      "top_bottom_spread": 0.5335376447876446,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.033491175658699884,
+      "max_weight": 0.5169823513173998,
+      "weight_entropy": 0.9629114471383808,
+      "effective_n_features": 2.4175159497606296,
+      "n_features": 3,
+      "features": "rank__profit_factor_oos|rank__trade_count_oos|rank__net_profit_oos",
+      "weights": "0.36341855|0.11959910|0.51698235"
+    },
+    {
+      "rank": 3,
+      "objective": 0.7448818111576134,
+      "spearman_score_vs_target": 0.9920990470256514,
+      "pearson_score_vs_target": 0.9920265481556122,
+      "top_bucket_target_mean": 0.7738272200772202,
+      "bottom_bucket_target_mean": 0.2427944015444016,
+      "top_bottom_spread": 0.5310328185328186,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.0,
+      "max_weight": 0.37708030129803266,
+      "weight_entropy": 1.3091150499274586,
+      "effective_n_features": 3.4697945644252677,
+      "n_features": 4,
+      "features": "rank__trades_per_month|rank__expectancy_oos|rank__profit_factor_oos|rank__net_profit_oos",
+      "weights": "0.15997186|0.37708030|0.15004726|0.31290057"
+    },
+    {
+      "rank": 4,
+      "objective": 0.7442229089248135,
+      "spearman_score_vs_target": 0.9923360015674101,
+      "pearson_score_vs_target": 0.9926435751966508,
+      "top_bucket_target_mean": 0.7740106177606176,
+      "bottom_bucket_target_mean": 0.2437644787644788,
+      "top_bottom_spread": 0.5302461389961388,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.012164385440381231,
+      "max_weight": 0.4743287708807625,
+      "weight_entropy": 1.005639462300158,
+      "effective_n_features": 2.571583335118757,
+      "n_features": 3,
+      "features": "rank__profit_factor_oos|rank__trade_count_is|rank__net_profit_oos",
+      "weights": "0.47432877|0.14945003|0.37622120"
+    },
+    {
+      "rank": 5,
+      "objective": 0.7433560498292562,
+      "spearman_score_vs_target": 0.9896850726314855,
+      "pearson_score_vs_target": 0.9917546913020373,
+      "top_bucket_target_mean": 0.7737982625482624,
+      "bottom_bucket_target_mean": 0.2410231660231661,
+      "top_bottom_spread": 0.5327750965250964,
+      "complexity_penalty": 0.015,
+      "concentration_penalty": 0.0,
+      "max_weight": 0.39733574834375884,
+      "weight_entropy": 1.4622519862080845,
+      "effective_n_features": 3.825731743742678,
+      "n_features": 5,
+      "features": "rank__net_profit_oos|rank__trade_count_is|rank__profit_factor_oos|rank__trade_count_oos|rank__expectancy_oos",
+      "weights": "0.06884617|0.15575345|0.39733575|0.15000130|0.22806334"
+    },
+    {
+      "rank": 6,
+      "objective": 0.7433371498616403,
+      "spearman_score_vs_target": 0.9907365584105394,
+      "pearson_score_vs_target": 0.9923534256926616,
+      "top_bucket_target_mean": 0.77382722007722,
+      "bottom_bucket_target_mean": 0.2432480694980695,
+      "top_bottom_spread": 0.5305791505791505,
+      "complexity_penalty": 0.015,
+      "concentration_penalty": 0.0,
+      "max_weight": 0.3313322091284923,
+      "weight_entropy": 1.4332679145882918,
+      "effective_n_features": 3.7946468810967158,
+      "n_features": 5,
+      "features": "rank__trade_count_oos|rank__trades_per_month|rank__net_profit_oos|rank__profit_factor_oos|rank__expectancy_oos",
+      "weights": "0.04235102|0.15818972|0.32722746|0.14089959|0.33133221"
+    },
+    {
+      "rank": 7,
+      "objective": 0.7432358835033348,
+      "spearman_score_vs_target": 0.9906773197750998,
+      "pearson_score_vs_target": 0.9923828443968694,
+      "top_bucket_target_mean": 0.7738272200772202,
+      "bottom_bucket_target_mean": 0.2432480694980695,
+      "top_bottom_spread": 0.5305791505791506,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.01643294081171609,
+      "max_weight": 0.4828658816234322,
+      "weight_entropy": 1.0197847382631835,
+      "effective_n_features": 2.6130591098469456,
+      "n_features": 3,
+      "features": "rank__expectancy_oos|rank__profit_factor_oos|rank__trades_per_month",
+      "weights": "0.48286588|0.34750499|0.16962913"
+    },
+    {
+      "rank": 8,
+      "objective": 0.7411233381814766,
+      "spearman_score_vs_target": 0.9875821010733777,
+      "pearson_score_vs_target": 0.9868170259834483,
+      "top_bucket_target_mean": 0.7738272200772202,
+      "bottom_bucket_target_mean": 0.2427944015444016,
+      "top_bottom_spread": 0.5310328185328186,
+      "complexity_penalty": 0.03,
+      "concentration_penalty": 0.0,
+      "max_weight": 0.3061057980187417,
+      "weight_entropy": 1.6171769824165994,
+      "effective_n_features": 4.40904659631577,
+      "n_features": 6,
+      "features": "rank__active_months|rank__avg_win_total|rank__profit_factor_oos|rank__trade_count_total|rank__net_profit_oos|rank__expectancy_oos",
+      "weights": "0.06593381|0.08003363|0.30218390|0.10233965|0.14340322|0.30610580"
+    },
+    {
+      "rank": 9,
+      "objective": 0.740292723849412,
+      "spearman_score_vs_target": 0.9846645982779745,
+      "pearson_score_vs_target": 0.9869803206795331,
+      "top_bucket_target_mean": 0.7705405405405407,
+      "bottom_bucket_target_mean": 0.2410231660231661,
+      "top_bottom_spread": 0.5295173745173746,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.0,
+      "max_weight": 0.37284920331347726,
+      "weight_entropy": 1.093771160360366,
+      "effective_n_features": 2.9713486364398523,
+      "n_features": 3,
+      "features": "rank__trade_count_oos|rank__net_profit_oos|rank__profit_factor_oos",
+      "weights": "0.29269567|0.33445512|0.37284920"
+    },
+    {
+      "rank": 10,
+      "objective": 0.7398834031553343,
+      "spearman_score_vs_target": 0.987685768685397,
+      "pearson_score_vs_target": 0.9864762933689286,
+      "top_bucket_target_mean": 0.7735569498069498,
+      "bottom_bucket_target_mean": 0.24370173745173745,
+      "top_bottom_spread": 0.5298552123552123,
+      "complexity_penalty": 0.0,
+      "concentration_penalty": 0.04913653494419376,
+      "max_weight": 0.5482730698883875,
+      "weight_entropy": 1.1739994464305088,
+      "effective_n_features": 2.6902663366906903,
+      "n_features": 4,
+      "features": "rank__trade_count_is|rank__net_profit_oos|rank__profit_factor_is|rank__profit_factor_oos",
+      "weights": "0.16237914|0.54827307|0.10673320|0.18261459"
+    }
+  ],
+  "feature_usage_top_models": [
+    {
+      "feature": "rank__profit_factor_oos",
+      "count": 76,
+      "share_in_top_k": 0.76
+    },
+    {
+      "feature": "rank__expectancy_oos",
+      "count": 62,
+      "share_in_top_k": 0.62
+    },
+    {
+      "feature": "rank__net_profit_oos",
+      "count": 62,
+      "share_in_top_k": 0.62
+    },
+    {
+      "feature": "rank__trade_count_total",
+      "count": 32,
+      "share_in_top_k": 0.32
+    },
+    {
+      "feature": "rank__trade_count_oos",
+      "count": 31,
+      "share_in_top_k": 0.31
+    },
+    {
+      "feature": "rank__trade_count_is",
+      "count": 24,
+      "share_in_top_k": 0.24
+    },
+    {
+      "feature": "rank__active_months",
+      "count": 22,
+      "share_in_top_k": 0.22
+    },
+    {
+      "feature": "rank__win_rate_oos",
+      "count": 22,
+      "share_in_top_k": 0.22
+    },
+    {
+      "feature": "rank__net_profit_total",
+      "count": 20,
+      "share_in_top_k": 0.2
+    },
+    {
+      "feature": "rank__trades_per_month",
+      "count": 19,
+      "share_in_top_k": 0.19
+    },
+    {
+      "feature": "rank__expectancy_total",
+      "count": 18,
+      "share_in_top_k": 0.18
+    },
+    {
+      "feature": "rank__profit_factor_total",
+      "count": 14,
+      "share_in_top_k": 0.14
+    },
+    {
+      "feature": "rank__avg_win_total",
+      "count": 13,
+      "share_in_top_k": 0.13
+    },
+    {
+      "feature": "rank__avg_loss_total",
+      "count": 11,
+      "share_in_top_k": 0.11
+    },
+    {
+      "feature": "rank__profit_factor_is",
+      "count": 11,
+      "share_in_top_k": 0.11
+    },
+    {
+      "feature": "rank__win_rate_total",
+      "count": 11,
+      "share_in_top_k": 0.11
+    },
+    {
+      "feature": "rank__payoff_ratio_total",
+      "count": 10,
+      "share_in_top_k": 0.1
+    },
+    {
+      "feature": "rank__win_rate_is",
+      "count": 10,
+      "share_in_top_k": 0.1
+    },
+    {
+      "feature": "rank__net_profit_is",
+      "count": 8,
+      "share_in_top_k": 0.08
+    },
+    {
+      "feature": "rank__expectancy_is",
+      "count": 7,
+      "share_in_top_k": 0.07
+    }
+  ],
+  "notes": [
+    "Reiner Performance-Search.",
+    "Keine Risk- oder Robustness-Metriken enthalten.",
+    "Proxy-Target bleibt eine Übergangslösung innerhalb des Performance-Layers.",
+    "Top-Modelle und Feature Usage werden separat gespeichert."
+  ]
+}

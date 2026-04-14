@@ -1,0 +1,28 @@
+{
+  "strategy_id": "NZDUSD_76_5.71.164_BUY_M15",
+  "features": {
+    "strategy_id": "NZDUSD_76_5.71.164_BUY_M15",
+    "trade_count_total": 546,
+    "trade_count_is": 343,
+    "trade_count_oos": 203,
+    "active_months": 56,
+    "trades_per_month": 9.75,
+    "net_profit_total": 313.38000000000005,
+    "net_profit_is": 232.77999999999994,
+    "net_profit_oos": 80.6,
+    "win_rate_total": 0.5915750915750916,
+    "win_rate_is": 0.5947521865889213,
+    "win_rate_oos": 0.5862068965517241,
+    "avg_win_total": 13.978452012383901,
+    "avg_loss_total": -18.84152466367713,
+    "payoff_ratio_total": 0.7418960122336433,
+    "expectancy_total": 0.573956043956044,
+    "expectancy_is": 0.6786588921282797,
+    "expectancy_oos": 0.39704433497536945,
+    "profit_factor_total": 1.0745848069572503,
+    "profit_factor_is": 1.0803837202074684,
+    "profit_factor_oos": 1.0617246132638998,
+    "first_trade_time_utc": "2021-07-12T13:13:40+00:00",
+    "last_trade_time_utc": "2026-03-12T17:19:40+00:00"
+  }
+}

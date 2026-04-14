@@ -1,0 +1,1609 @@
+[INFO] PROJECT_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO
+[INFO] LIVE_PERF_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Live_Trades_Data\Strategy_Live_Performance
+[INFO] STRATEGY_EA_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Strategy_EA
+[INFO] STATE_FILE = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Strategy_Performance_Loop\runtime\state.json
+[INFO] REGISTRY_FILE = not found
+[INFO] POLL_SECONDS = 30.0
+[INFO] START_EQUITY = 100000.0
+[INFO] CUTOFF_DATE_UTC = 2026-02-22 00:00:00+00:00
+[INFO] INPUT_DB_FILENAME = closed_trades.db
+[INFO] OUTPUT_DB_FILENAME = trades.db
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:44:48+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:45:23+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:45:58+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:46:33+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:47:08+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:47:43+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:48:34+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:49:09+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:49:44+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:50:19+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:50:53+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:51:28+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:52:03+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:52:38+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:53:13+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:54:03+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:54:38+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:55:13+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:55:48+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:56:22+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:56:57+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:57:32+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:58:07+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:58:42+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:59:17+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T15:59:52+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:00:26+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:01:02+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:01:37+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:02:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:02:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:03:21+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:03:56+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:04:31+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:05:06+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:05:41+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:06:16+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:06:51+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:07:26+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:08:01+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:08:36+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:09:11+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:09:46+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:10:20+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:10:55+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:11:30+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:12:05+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:12:40+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:13:15+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:13:50+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:14:25+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:15:00+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:15:43+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:16:18+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:48:49+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:49:25+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:50:00+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:50:34+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:51:09+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:51:44+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:52:19+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:52:54+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:53:29+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:54:04+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:54:39+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:55:14+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:55:49+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:56:24+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:56:59+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:57:34+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:58:09+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:58:44+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:59:19+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T16:59:54+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:00:29+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:01:05+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:01:40+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:02:15+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:02:53+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:03:28+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:04:03+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:04:38+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:05:13+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:05:48+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:06:23+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:06:58+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:07:33+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:08:08+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:08:46+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:09:21+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:09:56+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:10:31+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:11:06+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:11:40+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:12:15+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:12:50+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:13:26+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:14:01+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T17:14:35+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:12:08+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:12:43+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:13:26+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:14:01+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:14:36+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:15:10+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:15:45+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:16:21+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:16:56+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:17:31+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:18:06+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:18:41+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:19:16+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:19:51+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:20:26+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:21:01+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:21:37+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:22:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:22:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:23:21+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:23:56+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:24:31+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:25:06+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:25:41+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:26:15+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:26:50+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:27:25+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:28:00+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:28:36+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:29:23+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:29:59+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:30:34+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:31:09+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:31:44+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:32:18+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:32:53+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:33:28+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:34:03+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:34:38+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:35:13+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:35:48+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:36:23+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:36:59+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:37:33+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:38:08+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:38:43+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:39:18+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:39:53+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:40:27+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:41:02+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:41:37+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:42:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:42:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:43:22+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:43:57+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:44:32+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:45:07+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:45:42+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:46:17+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:46:51+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:47:26+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:48:02+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:48:37+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:49:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:49:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:50:21+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:50:56+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:51:31+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:52:06+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:52:40+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:53:15+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:53:50+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:54:25+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:55:00+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:55:35+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:56:10+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:56:45+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:57:20+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:57:54+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:58:29+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:59:04+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T19:59:39+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:00:14+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:00:50+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:01:25+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:02:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:02:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:03:34+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:04:09+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:04:44+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:05:19+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:05:53+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:06:28+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:07:03+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:07:37+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:08:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:08:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:09:22+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:09:57+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:10:33+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720

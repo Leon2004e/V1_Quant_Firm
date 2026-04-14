@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDCHF_35_3.1.133_SELL_M15",
+  "features": {
+    "strategy_id": "USDCHF_35_3.1.133_SELL_M15",
+    "trade_count_total": 340,
+    "trade_count_is": 212,
+    "trade_count_oos": 128,
+    "active_months": 53,
+    "trades_per_month": 6.415094339622642,
+    "net_profit_total": 229.73000000000002,
+    "net_profit_is": 153.72,
+    "net_profit_oos": 76.01000000000002,
+    "win_rate_total": 0.55,
+    "win_rate_is": 0.5613207547169812,
+    "win_rate_oos": 0.53125,
+    "avg_win_total": 15.334224598930481,
+    "avg_loss_total": -17.24032679738562,
+    "payoff_ratio_total": 0.8894393232299873,
+    "expectancy_total": 0.6756764705882353,
+    "expectancy_is": 0.7250943396226415,
+    "expectancy_oos": 0.5938281250000002,
+    "profit_factor_total": 1.0870925061699845,
+    "profit_factor_is": 1.0968760437870644,
+    "profit_factor_oos": 1.0723215984776402,
+    "first_trade_time_utc": "2021-07-09T09:22:00+00:00",
+    "last_trade_time_utc": "2026-03-02T09:18:40+00:00"
+  }
+}

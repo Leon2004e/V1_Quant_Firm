@@ -1,0 +1,260 @@
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Q' is deprecated and will be removed in a future version, please use 'QE' instead.
+  out = d.resample(rule).agg(agg)
+C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py:404: FutureWarning: 'Y' is deprecated and will be removed in a future version, please use 'YE' instead.
+  out = d.resample(rule).agg(agg)

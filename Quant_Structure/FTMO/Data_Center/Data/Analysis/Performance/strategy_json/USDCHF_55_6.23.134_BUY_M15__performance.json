@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDCHF_55_6.23.134_BUY_M15",
+  "features": {
+    "strategy_id": "USDCHF_55_6.23.134_BUY_M15",
+    "trade_count_total": 537,
+    "trade_count_is": 357,
+    "trade_count_oos": 180,
+    "active_months": 57,
+    "trades_per_month": 9.421052631578947,
+    "net_profit_total": 911.0200000000001,
+    "net_profit_is": 302.80000000000007,
+    "net_profit_oos": 608.2200000000001,
+    "win_rate_total": 0.6219739292364991,
+    "win_rate_is": 0.6134453781512605,
+    "win_rate_oos": 0.6388888888888888,
+    "avg_win_total": 19.40802395209581,
+    "avg_loss_total": -27.444630541871916,
+    "payoff_ratio_total": 0.7071701665826851,
+    "expectancy_total": 1.6964990689013038,
+    "expectancy_is": 0.8481792717086837,
+    "expectancy_oos": 3.379000000000001,
+    "profit_factor_total": 1.1635213578256987,
+    "profit_factor_is": 1.0772102321406716,
+    "profit_factor_oos": 1.3687299181570174,
+    "first_trade_time_utc": "2021-07-06T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-12T17:10:40+00:00"
+  }
+}

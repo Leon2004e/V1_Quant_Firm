@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDCHF_53_6.47.153_BOTH_M15",
+  "features": {
+    "strategy_id": "USDCHF_53_6.47.153_BOTH_M15",
+    "trade_count_total": 537,
+    "trade_count_is": 332,
+    "trade_count_oos": 205,
+    "active_months": 57,
+    "trades_per_month": 9.421052631578947,
+    "net_profit_total": 1189.67,
+    "net_profit_is": 713.33,
+    "net_profit_oos": 476.34,
+    "win_rate_total": 0.5363128491620112,
+    "win_rate_is": 0.5391566265060241,
+    "win_rate_oos": 0.5317073170731708,
+    "avg_win_total": 29.306458333333335,
+    "avg_loss_total": -29.11883534136546,
+    "payoff_ratio_total": 1.0064433549545624,
+    "expectancy_total": 2.2154003724394786,
+    "expectancy_is": 2.148584337349398,
+    "expectancy_oos": 2.323609756097561,
+    "profit_factor_total": 1.164079061152265,
+    "profit_factor_is": 1.1569382811657782,
+    "profit_factor_oos": 1.1760765903966288,
+    "first_trade_time_utc": "2021-07-06T12:35:40+00:00",
+    "last_trade_time_utc": "2026-03-12T21:59:40+00:00"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "NZDUSD_75_4.73.120_SELL_M15",
+  "features": {
+    "strategy_id": "NZDUSD_75_4.73.120_SELL_M15",
+    "trade_count_total": 560,
+    "trade_count_is": 349,
+    "trade_count_oos": 211,
+    "active_months": 57,
+    "trades_per_month": 9.824561403508772,
+    "net_profit_total": 910.2999999999998,
+    "net_profit_is": 715.0,
+    "net_profit_oos": 195.29999999999998,
+    "win_rate_total": 0.4982142857142857,
+    "win_rate_is": 0.4899713467048711,
+    "win_rate_oos": 0.5118483412322274,
+    "avg_win_total": 21.993548387096773,
+    "avg_loss_total": -18.59750889679715,
+    "payoff_ratio_total": 1.1826072249323931,
+    "expectancy_total": 1.625535714285714,
+    "expectancy_is": 2.048710601719198,
+    "expectancy_oos": 0.9255924170616113,
+    "profit_factor_total": 1.174190091658853,
+    "profit_factor_is": 1.1977268327756423,
+    "profit_factor_oos": 1.121319418561312,
+    "first_trade_time_utc": "2021-07-06T06:47:00+00:00",
+    "last_trade_time_utc": "2026-03-11T12:56:40+00:00"
+  }
+}

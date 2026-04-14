@@ -1,0 +1,28 @@
+{
+  "strategy_id": "AUDUSD_5_6.3.178_SELL_M15",
+  "features": {
+    "strategy_id": "AUDUSD_5_6.3.178_SELL_M15",
+    "trade_count_total": 640,
+    "trade_count_is": 413,
+    "trade_count_oos": 227,
+    "active_months": 57,
+    "trades_per_month": 11.228070175438596,
+    "net_profit_total": 578.96,
+    "net_profit_is": 659.46,
+    "net_profit_oos": -80.5,
+    "win_rate_total": 0.5640625,
+    "win_rate_is": 0.5738498789346247,
+    "win_rate_oos": 0.5462555066079295,
+    "avg_win_total": 20.570637119113574,
+    "avg_loss_total": -24.7185559566787,
+    "payoff_ratio_total": 0.8321941279727386,
+    "expectancy_total": 0.904625,
+    "expectancy_is": 1.5967554479418886,
+    "expectancy_oos": -0.35462555066079293,
+    "profit_factor_total": 1.0845562462027387,
+    "profit_factor_is": 1.1505362107771746,
+    "profit_factor_oos": 0.9673600129749017,
+    "first_trade_time_utc": "2021-07-05T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-04T23:45:00+00:00"
+  }
+}

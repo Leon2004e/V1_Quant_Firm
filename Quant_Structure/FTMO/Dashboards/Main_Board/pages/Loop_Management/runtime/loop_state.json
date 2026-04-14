@@ -1,0 +1,112 @@
+{
+  "spread_logger": {
+    "loop_id": "spread_logger",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.7080274,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\spread_logger_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Market\\Spread_Logger_Loop\\Spread_Data_Management.py"
+  },
+  "ohlc_loader": {
+    "loop_id": "ohlc_loader",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.7226286,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\ohlc_loader_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Market\\Ohcl_Logger_Loop\\Ohcl_Loader.py"
+  },
+  "trade_logger_live_530164208": {
+    "loop_id": "trade_logger_live_530164208",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.7688744,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trade_logger_live_530164208_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trade_Logger_Loop\\Trade_Logger_FTMO_LIVE_530164208.py"
+  },
+  "trade_logger_live_540130486": {
+    "loop_id": "trade_logger_live_540130486",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.7863667,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trade_logger_live_540130486_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trade_Logger_Loop\\Trade_Logger_FTMO_LIVE_540130486.py"
+  },
+  "trade_logger_live_540136817": {
+    "loop_id": "trade_logger_live_540136817",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.8043654,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trade_logger_live_540136817_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trade_Logger_Loop\\Trade_Logger_FTMO_LIVE_540136817.py"
+  },
+  "trade_logger_live_540136824": {
+    "loop_id": "trade_logger_live_540136824",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.8220997,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trade_logger_live_540136824_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trade_Logger_Loop\\Trade_Logger_FTMO_LIVE_540136824.py"
+  },
+  "trade_logger_demo_1": {
+    "loop_id": "trade_logger_demo_1",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.842222,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trade_logger_demo_1_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trade_Logger_Loop\\Trade_Logger_FTMO_DEMO_1.py"
+  },
+  "trade_logger_demo_2": {
+    "loop_id": "trade_logger_demo_2",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.8665257,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trade_logger_demo_2_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trade_Logger_Loop\\Trade_Logger_FTMO_DEMO_2.py"
+  },
+  "trade_logger_demo_3": {
+    "loop_id": "trade_logger_demo_3",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": null,
+    "last_exit_code": null,
+    "auto_restart": false,
+    "log_file": null,
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\1.Data_Center\\Data_Operations\\Trade_Logger_Loop\\Trade_Logger_FTMO_DEMO_3.py"
+  },
+  "strategy_performance_loop": {
+    "loop_id": "strategy_performance_loop",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.7380495,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\strategy_performance_loop_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Strategy_Performance_Loop\\Strategy_Performance_Loop.py"
+  },
+  "trades_combiner": {
+    "loop_id": "trades_combiner",
+    "pid": null,
+    "running": false,
+    "started_at_epoch": 1775322099.752122,
+    "last_exit_code": 0,
+    "auto_restart": false,
+    "log_file": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Dashboards\\Main_Board\\pages\\Loop_Management\\runtime\\logs\\trades_combiner_20260404_190139.log",
+    "script_path": "C:\\Users\\Leon\\Desktop\\Business_Code\\Quant_Structure\\FTMO\\Data_Center\\Data_Operations\\Trades\\Trades_Combiner\\Trades_Combiner.py"
+  }
+}

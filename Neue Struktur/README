@@ -1,0 +1,135 @@
+ARCHITECTURE OVERVIEW
+
+core:
+  Modelle, Typen, Config, gemeinsame Regeln
+  - keine IO
+  - keine Seiteneffekte
+  - keine Abhängigkeiten
+  - nur pure Logik und Strukturen
+
+data:
+  Laden, Speichern, Datenpipelines
+  - IO erlaubt (Files, APIs, MT5-Logs)
+  - keine Entscheidungslogik
+  - keine Strategie- oder Risiko-Logik
+
+engine:
+  Analyse-, Selektions-, Bewertungs-, Risiko- und Portfolio-Logik
+  - trifft Entscheidungen (Analyse, nicht Execution)
+  - verarbeitet Daten zu Insights
+  - KEINE Order-Ausführung
+  - keine UI
+
+interface:
+  Dashboards, PDFs, Monitoring
+  - nur Darstellung
+  - keine Berechnungslogik
+  - keine Entscheidungslogik
+
+orchestration:
+  Loops, Scheduler, Workflow-Steuerung
+  - steuert Abläufe und Reihenfolgen
+  - keine Berechnungen
+  - keine Fachlogik
+
+app:
+  Startlogik, Dependency-Wiring
+  - initialisiert das System
+  - verbindet Module
+
+tests:
+  Tests
+  - unit, integration, system
+
+-------------------------------------
+
+SYSTEM CONTEXT
+
+- Trade-Ausführung erfolgt ausschließlich über MT5 EAs
+- dieses System führt KEINE Trades aus
+- Fokus:
+  - Analyse
+  - Monitoring
+  - Risikoüberwachung
+  - Strategie-Bewertung
+  - Portfolio-Analyse
+
+-------------------------------------
+
+DEPENDENCIES
+
+ALLOWED:
+
+app → orchestration, engine, data, core
+orchestration → engine, data, core
+engine → core
+data → core
+interface → engine, data, core
+core → (none)
+
+tests → alles
+
+FORBIDDEN:
+
+core → irgendetwas
+data → engine
+engine → data (direktes Schreiben vermeiden)
+interface → orchestration
+
+-------------------------------------
+
+MODULE RULES
+
+core:
+  - keine Dateioperationen
+  - keine API Calls
+  - keine MT5 Interaktion
+
+data:
+  - darf Daten lesen/schreiben
+  - darf transformieren
+  - darf NICHT entscheiden
+
+engine:
+  - bewertet Strategien
+  - analysiert Trades und Performance
+  - berechnet Risiko
+  - selektiert Strategien
+  - KEINE Execution
+
+orchestration:
+  - steuert wann was läuft
+  - verbindet Pipelines und Engine
+  - keine Berechnungslogik
+
+interface:
+  - visualisiert Ergebnisse
+  - generiert Reports
+
+-------------------------------------
+
+MIGRATION RULE
+
+- kein direktes Kopieren aus alter Struktur
+- jede Datei zuerst klassifizieren:
+    data / engine / core / interface / orchestration
+- jede Datei gehört genau EINEM Modul
+- große Dateien ggf. aufteilen
+- zuerst core extrahieren, dann data, dann engine
+
+-------------------------------------
+
+NAMING CONVENTIONS
+
+Ordner:
+  snake_case
+
+Dateien:
+  snake_case
+
+Klassen:
+  PascalCase
+
+keine generischen Namen wie:
+  utils.py
+  helper.py

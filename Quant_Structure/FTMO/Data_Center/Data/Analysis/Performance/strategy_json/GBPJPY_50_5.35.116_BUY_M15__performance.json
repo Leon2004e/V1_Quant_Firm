@@ -1,0 +1,28 @@
+{
+  "strategy_id": "GBPJPY_50_5.35.116_BUY_M15",
+  "features": {
+    "strategy_id": "GBPJPY_50_5.35.116_BUY_M15",
+    "trade_count_total": 539,
+    "trade_count_is": 328,
+    "trade_count_oos": 211,
+    "active_months": 57,
+    "trades_per_month": 9.456140350877194,
+    "net_profit_total": 1789.1299999999999,
+    "net_profit_is": 551.7199999999999,
+    "net_profit_oos": 1237.4100000000003,
+    "win_rate_total": 0.5936920222634509,
+    "win_rate_is": 0.5914634146341463,
+    "win_rate_oos": 0.5971563981042654,
+    "avg_win_total": 33.4114375,
+    "avg_loss_total": -40.65082191780822,
+    "payoff_ratio_total": 0.8219129632250606,
+    "expectancy_total": 3.3193506493506493,
+    "expectancy_is": 1.6820731707317071,
+    "expectancy_oos": 5.864502369668248,
+    "profit_factor_total": 1.2009687133882165,
+    "profit_factor_is": 1.0957018138799892,
+    "profit_factor_oos": 1.3943885974362082,
+    "first_trade_time_utc": "2021-07-05T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-05T14:47:20+00:00"
+  }
+}

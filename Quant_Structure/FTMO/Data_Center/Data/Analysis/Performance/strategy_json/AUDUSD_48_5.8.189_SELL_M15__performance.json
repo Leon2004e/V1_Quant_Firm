@@ -1,0 +1,28 @@
+{
+  "strategy_id": "AUDUSD_48_5.8.189_SELL_M15",
+  "features": {
+    "strategy_id": "AUDUSD_48_5.8.189_SELL_M15",
+    "trade_count_total": 839,
+    "trade_count_is": 535,
+    "trade_count_oos": 304,
+    "active_months": 57,
+    "trades_per_month": 14.719298245614034,
+    "net_profit_total": 1551.6400000000003,
+    "net_profit_is": 1048.14,
+    "net_profit_oos": 503.49999999999994,
+    "win_rate_total": 0.6567342073897497,
+    "win_rate_is": 0.6710280373831776,
+    "win_rate_oos": 0.631578947368421,
+    "avg_win_total": 17.488929219600728,
+    "avg_loss_total": -28.268391608391607,
+    "payoff_ratio_total": 0.618674364706659,
+    "expectancy_total": 1.8493921334922532,
+    "expectancy_is": 1.959140186915888,
+    "expectancy_oos": 1.6562499999999998,
+    "profit_factor_total": 1.1919215907460459,
+    "profit_factor_is": 1.194855606741698,
+    "profit_factor_oos": 1.1860886277118676,
+    "first_trade_time_utc": "2021-07-05T23:45:00+00:00",
+    "last_trade_time_utc": "2026-03-05T15:48:40+00:00"
+  }
+}

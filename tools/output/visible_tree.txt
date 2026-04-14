@@ -1,0 +1,38 @@
+.
+    ├── Business
+    ├── Control_System
+    ├── Neue Struktur
+    ├── Password_Manager
+    ├── Projekt_Management
+    ├── Quant_Structure
+    │   ├── Dawrinex
+    │   └── FTMO
+    │       ├── Analyse_Center
+    │       ├── Dashboards
+    │       │   └── Main_Board
+    │       │       ├── pages
+    │       │       │   ├── Code_Station
+    │       │       │   ├── Knowledge_Board
+    │       │       │   ├── Loop_Management
+    │       │       │   ├── Market
+    │       │       │   ├── Performance
+    │       │       │   │   └── Analytics_dashboard.py
+    │       │       │   ├── Portfolio
+    │       │       │   ├── Regime
+    │       │       │   ├── Risk_Model
+    │       │       │   ├── Robustness
+    │       │       │   ├── Selection
+    │       │       │   ├── Spread
+    │       │       │   ├── Strategy
+    │       │       │   ├── Strategy_Analytics
+    │       │       │   └── Visual_Folder
+    │       │       ├── runtime
+    │       │       ├── services
+    │       │       └── main_board.py
+    │       ├── Data_Center
+    │       │   ├── Data
+    │       │   ├── Data_Operations
+    │       │   └── Workspace
+    │       └── Execution_Control_Center
+    ├── tools
+    └── Tracking

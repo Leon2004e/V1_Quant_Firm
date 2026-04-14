@@ -1,0 +1,20 @@
+[INFO] PROJECT_ROOT   = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO
+[INFO] OUT_DIR        = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Regime_Data\OHLC
+[INFO] TERMINAL_EXE   = C:\Users\Leon\Desktop\Terminals\MetaTrader 5 - Kopie - Kopie - Kopie (19) - Kopie - Kopie - Kopie - Kopie - Kopie - Kopie\terminal64.exe
+[WARN] initialize failed (1/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (2/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (3/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (4/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (5/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (6/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (7/8): (-10005, 'IPC timeout')
+[WARN] initialize failed (8/8): (-10005, 'IPC timeout')
+Traceback (most recent call last):
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py", line 613, in <module>
+    main()
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py", line 521, in main
+    account_id = connect_mt5(exe)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py", line 163, in connect_mt5
+    raise RuntimeError(f"initialize failed: {last_err}")
+RuntimeError: initialize failed: (-10005, 'IPC timeout')

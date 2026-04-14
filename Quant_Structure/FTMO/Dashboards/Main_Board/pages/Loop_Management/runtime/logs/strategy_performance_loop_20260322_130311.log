@@ -1,0 +1,1263 @@
+[INFO] PROJECT_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO
+[INFO] LIVE_PERF_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Live_Trades_Data\Strategy_Live_Performance
+[INFO] STRATEGY_EA_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Strategy_EA
+[INFO] STATE_FILE = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Strategy_Performance_Loop\runtime\state.json
+[INFO] REGISTRY_FILE = not found
+[INFO] POLL_SECONDS = 30.0
+[INFO] START_EQUITY = 100000.0
+[INFO] GLOBAL_CUTOFF_DATE_UTC = 2026-02-22 00:00:00+00:00
+[INFO] INPUT_DB_FILENAME = closed_trades.db
+[INFO] OUTPUT_DB_FILENAME = trades.db
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:03:18+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:03:53+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:04:28+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:05:03+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:05:38+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:06:24+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:06:59+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:07:34+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:08:09+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:08:44+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:09:19+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:09:54+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:10:29+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:11:04+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:11:39+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:12:15+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:12:50+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:13:25+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:14:00+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:14:35+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:15:10+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:15:44+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:16:19+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:16:54+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:17:29+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:18:03+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:18:38+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:19:13+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:19:48+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:20:23+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:20:57+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:21:32+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:22:07+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:22:42+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:23:17+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:23:52+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:24:27+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:25:02+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:25:36+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:26:11+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:26:46+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:27:21+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:27:56+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:28:30+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:29:05+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:29:40+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:30:15+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:30:49+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:31:24+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:31:59+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:32:34+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:33:09+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:33:44+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:34:19+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:34:54+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:35:28+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:36:03+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:36:38+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:37:13+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:37:47+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:38:22+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:38:57+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:39:32+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:40:07+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:40:43+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:41:17+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:41:52+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:42:27+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:43:02+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:43:37+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:44:12+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:44:47+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:45:22+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:45:56+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:46:31+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:47:06+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:47:41+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:48:15+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:48:50+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:49:25+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:50:00+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:50:35+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:51:10+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:51:44+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:52:19+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:52:54+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:53:29+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:54:04+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:54:39+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:55:14+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:55:48+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:56:23+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:56:58+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:57:33+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:58:08+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:58:43+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:59:17+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T12:59:52+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:00:27+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:01:02+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:01:36+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:02:11+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:02:46+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:03:21+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:03:56+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:04:30+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:05:05+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:05:40+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:06:15+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:06:50+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:07:25+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:08:00+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:08:34+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:09:09+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:09:44+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:10:19+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:10:54+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:11:28+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:12:03+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:12:38+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:13:13+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:13:47+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:14:22+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:14:57+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:15:32+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:16:07+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:16:42+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:17:27+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:18:01+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:18:36+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:19:11+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:19:46+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:20:21+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:20:55+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:21:30+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:22:05+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:22:40+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:23:14+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:23:49+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:24:24+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:24:59+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:25:34+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:26:09+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:26:44+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:27:18+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:27:53+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:28:28+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:29:03+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:29:37+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:30:12+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:30:47+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:31:22+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:31:56+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:32:31+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:33:06+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22
+[OK] account=540136817 rows_before=713 rows_after=60 matched=57 skipped=3 buckets=6 max_close_ticket=108732612 measurement_day_utc=2026-03-22
+[OK] account=540136824 rows_before=568 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732613 measurement_day_utc=2026-03-22
+[LOOP] updated_at_utc=2026-03-22T13:33:41+00:00 measurement_day_utc=2026-03-22
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=140 rows_after=140 matched=111 skipped=29 buckets=21 max_close_ticket=390151396 measurement_day_utc=2026-03-22
+[OK] account=1512715329 rows_before=110 rows_after=110 matched=110 skipped=0 buckets=21 max_close_ticket=390151399 measurement_day_utc=2026-03-22
+[OK] account=530164208 rows_before=528 rows_after=73 matched=66 skipped=7 buckets=6 max_close_ticket=126803775 measurement_day_utc=2026-03-22
+[OK] account=540130486 rows_before=541 rows_after=66 matched=63 skipped=3 buckets=6 max_close_ticket=108732614 measurement_day_utc=2026-03-22

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "GBPJPY_65_2.14.157_BUY_M15",
+  "features": {
+    "strategy_id": "GBPJPY_65_2.14.157_BUY_M15",
+    "trade_count_total": 680,
+    "trade_count_is": 435,
+    "trade_count_oos": 245,
+    "active_months": 57,
+    "trades_per_month": 11.929824561403509,
+    "net_profit_total": 3744.01,
+    "net_profit_is": 1814.35,
+    "net_profit_oos": 1929.6600000000003,
+    "win_rate_total": 0.538235294117647,
+    "win_rate_is": 0.5448275862068965,
+    "win_rate_oos": 0.5265306122448979,
+    "avg_win_total": 47.75513661202185,
+    "avg_loss_total": -43.74003184713376,
+    "payoff_ratio_total": 1.0917947380312938,
+    "expectancy_total": 5.50589705882353,
+    "expectancy_is": 4.170919540229884,
+    "expectancy_oos": 7.876163265306124,
+    "profit_factor_total": 1.2726015099345656,
+    "profit_factor_is": 1.1986856860013841,
+    "profit_factor_oos": 1.4192534236009569,
+    "first_trade_time_utc": "2021-07-06T17:18:40+00:00",
+    "last_trade_time_utc": "2026-03-12T23:45:00+00:00"
+  }
+}

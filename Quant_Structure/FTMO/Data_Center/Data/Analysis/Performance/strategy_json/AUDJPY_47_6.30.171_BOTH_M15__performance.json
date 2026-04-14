@@ -1,0 +1,28 @@
+{
+  "strategy_id": "AUDJPY_47_6.30.171_BOTH_M15",
+  "features": {
+    "strategy_id": "AUDJPY_47_6.30.171_BOTH_M15",
+    "trade_count_total": 650,
+    "trade_count_is": 405,
+    "trade_count_oos": 245,
+    "active_months": 57,
+    "trades_per_month": 11.403508771929825,
+    "net_profit_total": 968.8,
+    "net_profit_is": 693.3500000000001,
+    "net_profit_oos": 275.4500000000001,
+    "win_rate_total": 0.5846153846153846,
+    "win_rate_is": 0.5876543209876544,
+    "win_rate_oos": 0.5795918367346938,
+    "avg_win_total": 16.98507894736842,
+    "avg_loss_total": -20.316777777777773,
+    "payoff_ratio_total": 0.8360124392336702,
+    "expectancy_total": 1.4904615384615383,
+    "expectancy_is": 1.7119753086419756,
+    "expectancy_oos": 1.1242857142857148,
+    "profit_factor_total": 1.1766100996622024,
+    "profit_factor_is": 1.2001131381699899,
+    "profit_factor_oos": 1.1363114502607958,
+    "first_trade_time_utc": "2021-07-20T16:13:40+00:00",
+    "last_trade_time_utc": "2026-03-12T09:10:40+00:00"
+  }
+}

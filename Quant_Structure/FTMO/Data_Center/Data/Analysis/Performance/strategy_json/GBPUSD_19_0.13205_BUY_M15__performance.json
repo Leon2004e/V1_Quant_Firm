@@ -1,0 +1,28 @@
+{
+  "strategy_id": "GBPUSD_19_0.13205_BUY_M15",
+  "features": {
+    "strategy_id": "GBPUSD_19_0.13205_BUY_M15",
+    "trade_count_total": 498,
+    "trade_count_is": 315,
+    "trade_count_oos": 183,
+    "active_months": 54,
+    "trades_per_month": 9.222222222222221,
+    "net_profit_total": 312.59999999999997,
+    "net_profit_is": 409.49999999999994,
+    "net_profit_oos": -96.89999999999998,
+    "win_rate_total": 0.41164658634538154,
+    "win_rate_is": 0.44761904761904764,
+    "win_rate_oos": 0.34972677595628415,
+    "avg_win_total": 19.38907317073171,
+    "avg_loss_total": -12.671833910034604,
+    "payoff_ratio_total": 1.5300921167675534,
+    "expectancy_total": 0.6277108433734939,
+    "expectancy_is": 1.2999999999999998,
+    "expectancy_oos": -0.5295081967213113,
+    "profit_factor_total": 1.085359459990825,
+    "profit_factor_is": 1.1828810804051522,
+    "profit_factor_oos": 0.9319044272663388,
+    "first_trade_time_utc": "2021-07-12T18:17:40+00:00",
+    "last_trade_time_utc": "2026-02-26T15:43:40+00:00"
+  }
+}

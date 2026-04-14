@@ -1,0 +1,28 @@
+{
+  "strategy_id": "USDCAD_33_5.11.180_BUY_M15",
+  "features": {
+    "strategy_id": "USDCAD_33_5.11.180_BUY_M15",
+    "trade_count_total": 424,
+    "trade_count_is": 242,
+    "trade_count_oos": 182,
+    "active_months": 48,
+    "trades_per_month": 8.833333333333334,
+    "net_profit_total": 1018.4599999999999,
+    "net_profit_is": 626.74,
+    "net_profit_oos": 391.71999999999997,
+    "win_rate_total": 0.4410377358490566,
+    "win_rate_is": 0.40082644628099173,
+    "win_rate_oos": 0.4945054945054945,
+    "avg_win_total": 28.211390374331543,
+    "avg_loss_total": -18.038432203389828,
+    "payoff_ratio_total": 1.5639602187284318,
+    "expectancy_total": 2.402028301886792,
+    "expectancy_is": 2.589834710743802,
+    "expectancy_oos": 2.152307692307692,
+    "profit_factor_total": 1.2392396648399013,
+    "profit_factor_is": 1.232401364580243,
+    "profit_factor_oos": 1.2510591115640242,
+    "first_trade_time_utc": "2021-07-06T17:35:40+00:00",
+    "last_trade_time_utc": "2026-03-06T17:15:40+00:00"
+  }
+}

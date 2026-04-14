@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\Data_Center\Data_Operations\Trades\Trades_Combiner\Trades_Combiner.py", line 59, in <module>
+    PROJECT_ROOT = find_project_root(SCRIPT_PATH)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\Data_Center\Data_Operations\Trades\Trades_Combiner\Trades_Combiner.py", line 52, in find_project_root
+    raise RuntimeError(
+RuntimeError: Projekt-Root nicht gefunden. Erwartet FTMO-Root mit '1.Data_Center' und '3.Control_Panel'. Start=C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\Data_Center\Data_Operations\Trades\Trades_Combiner\Trades_Combiner.py

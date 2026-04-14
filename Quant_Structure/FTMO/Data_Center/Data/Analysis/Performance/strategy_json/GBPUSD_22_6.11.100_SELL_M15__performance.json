@@ -1,0 +1,28 @@
+{
+  "strategy_id": "GBPUSD_22_6.11.100_SELL_M15",
+  "features": {
+    "strategy_id": "GBPUSD_22_6.11.100_SELL_M15",
+    "trade_count_total": 394,
+    "trade_count_is": 255,
+    "trade_count_oos": 139,
+    "active_months": 57,
+    "trades_per_month": 6.912280701754386,
+    "net_profit_total": 718.5799999999999,
+    "net_profit_is": 559.68,
+    "net_profit_oos": 158.9,
+    "win_rate_total": 0.4289340101522843,
+    "win_rate_is": 0.4235294117647059,
+    "win_rate_oos": 0.43884892086330934,
+    "avg_win_total": 19.675147928994086,
+    "avg_loss_total": -11.741081081081083,
+    "payoff_ratio_total": 1.6757526664812419,
+    "expectancy_total": 1.8238071065989845,
+    "expectancy_is": 2.1948235294117646,
+    "expectancy_oos": 1.1431654676258993,
+    "profit_factor_total": 1.2756855884474319,
+    "profit_factor_is": 1.3203993542551606,
+    "profit_factor_oos": 1.1848319181109692,
+    "first_trade_time_utc": "2021-07-06T17:17:40+00:00",
+    "last_trade_time_utc": "2026-03-11T13:22:40+00:00"
+  }
+}

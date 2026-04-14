@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURUSD_14_5.6.167_BUY_M15",
+  "features": {
+    "strategy_id": "EURUSD_14_5.6.167_BUY_M15",
+    "trade_count_total": 702,
+    "trade_count_is": 450,
+    "trade_count_oos": 252,
+    "active_months": 57,
+    "trades_per_month": 12.31578947368421,
+    "net_profit_total": 958.5599999999997,
+    "net_profit_is": 443.25999999999993,
+    "net_profit_oos": 515.3,
+    "win_rate_total": 0.6381766381766382,
+    "win_rate_is": 0.6288888888888889,
+    "win_rate_oos": 0.6547619047619048,
+    "avg_win_total": 15.966026785714288,
+    "avg_loss_total": -24.483083003952565,
+    "payoff_ratio_total": 0.6521248481303078,
+    "expectancy_total": 1.365470085470085,
+    "expectancy_is": 0.985022222222222,
+    "expectancy_oos": 2.0448412698412697,
+    "profit_factor_total": 1.1547507192188848,
+    "profit_factor_is": 1.1086229881001393,
+    "profit_factor_oos": 1.2438135793707124,
+    "first_trade_time_utc": "2021-07-06T06:28:40+00:00",
+    "last_trade_time_utc": "2026-03-11T15:51:40+00:00"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURGBP_49_2.36.141_BOTH_M15",
+  "features": {
+    "strategy_id": "EURGBP_49_2.36.141_BOTH_M15",
+    "trade_count_total": 1162,
+    "trade_count_is": 740,
+    "trade_count_oos": 422,
+    "active_months": 57,
+    "trades_per_month": 20.385964912280702,
+    "net_profit_total": 954.06,
+    "net_profit_is": 267.6399999999998,
+    "net_profit_oos": 686.4200000000001,
+    "win_rate_total": 0.7211703958691911,
+    "win_rate_is": 0.7081081081081081,
+    "win_rate_oos": 0.7440758293838863,
+    "avg_win_total": 11.189510739856804,
+    "avg_loss_total": -25.996141975308642,
+    "payoff_ratio_total": 0.4304296672361882,
+    "expectancy_total": 0.8210499139414802,
+    "expectancy_is": 0.36167567567567543,
+    "expectancy_oos": 1.6265876777251187,
+    "profit_factor_total": 1.1132717936540917,
+    "profit_factor_is": 1.0462800771219338,
+    "profit_factor_oos": 1.2600371254309202,
+    "first_trade_time_utc": "2021-07-05T03:19:40+00:00",
+    "last_trade_time_utc": "2026-03-12T07:51:40+00:00"
+  }
+}

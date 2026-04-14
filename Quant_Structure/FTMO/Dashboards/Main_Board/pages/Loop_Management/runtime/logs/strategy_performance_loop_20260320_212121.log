@@ -1,0 +1,87 @@
+[INFO] PROJECT_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO
+[INFO] LIVE_PERF_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Live_Trades_Data\Strategy_Live_Performance
+[INFO] STRATEGY_EA_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Strategy_Data\Strategy_EA
+[INFO] STATE_FILE = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Strategy_Performance_Loop\runtime\state.json
+[INFO] REGISTRY_FILE = not found
+[INFO] POLL_SECONDS = 30.0
+[INFO] START_EQUITY = 100000.0
+[INFO] GLOBAL_CUTOFF_DATE_UTC = 2026-02-22 00:00:00+00:00
+[INFO] INPUT_DB_FILENAME = closed_trades.db
+[INFO] OUTPUT_DB_FILENAME = trades.db
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=130 rows_after=130 matched=104 skipped=26 buckets=21 max_close_ticket=389610874
+[OK] account=1512715329 rows_before=103 rows_after=103 matched=103 skipped=0 buckets=21 max_close_ticket=389546336
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:21:27+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:22:02+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:22:37+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:23:12+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:23:47+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:24:22+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:24:57+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:25:32+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718
+[OK] account=540136817 rows_before=711 rows_after=58 matched=55 skipped=3 buckets=6 max_close_ticket=108515719
+[OK] account=540136824 rows_before=566 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515720
+[LOOP] updated_at_utc=2026-03-20T20:26:07+00:00
+[INFO] Strategy_EA mappings loaded: 49
+[OK] account=1512715324 rows_before=134 rows_after=134 matched=107 skipped=27 buckets=21 max_close_ticket=389949009
+[OK] account=1512715329 rows_before=106 rows_after=106 matched=106 skipped=0 buckets=21 max_close_ticket=389925654
+[OK] account=530164208 rows_before=526 rows_after=71 matched=64 skipped=7 buckets=6 max_close_ticket=126597732
+[OK] account=540130486 rows_before=539 rows_after=64 matched=61 skipped=3 buckets=6 max_close_ticket=108515718

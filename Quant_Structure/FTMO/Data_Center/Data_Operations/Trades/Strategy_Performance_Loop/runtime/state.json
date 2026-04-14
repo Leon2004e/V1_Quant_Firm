@@ -1,0 +1,50 @@
+{
+  "1512715324": {
+    "account_id": 1512715324,
+    "last_max_close_ticket": 390151396,
+    "last_rows": 140,
+    "last_updated_utc": "2026-03-24T08:36:06+00:00"
+  },
+  "1512715329": {
+    "account_id": 1512715329,
+    "last_max_close_ticket": 390151399,
+    "last_rows": 110,
+    "last_updated_utc": "2026-03-24T08:36:07+00:00"
+  },
+  "530164208": {
+    "account_id": 530164208,
+    "last_max_close_ticket": 130714706,
+    "last_rows": 103,
+    "last_updated_utc": "2026-04-04T17:01:47+00:00"
+  },
+  "540130486": {
+    "account_id": 540130486,
+    "last_max_close_ticket": 112748386,
+    "last_rows": 96,
+    "last_updated_utc": "2026-04-04T17:01:47+00:00"
+  },
+  "540136824": {
+    "account_id": 540136824,
+    "last_max_close_ticket": 112748387,
+    "last_rows": 96,
+    "last_updated_utc": "2026-04-04T17:01:48+00:00"
+  },
+  "540136817": {
+    "account_id": 540136817,
+    "last_max_close_ticket": 112748388,
+    "last_rows": 91,
+    "last_updated_utc": "2026-04-04T17:01:48+00:00"
+  },
+  "1512846122": {
+    "account_id": 1512846122,
+    "last_max_close_ticket": 400779206,
+    "last_rows": 167,
+    "last_updated_utc": "2026-04-04T17:01:42+00:00"
+  },
+  "1512846129": {
+    "account_id": 1512846129,
+    "last_max_close_ticket": 400890754,
+    "last_rows": 212,
+    "last_updated_utc": "2026-04-04T17:01:46+00:00"
+  }
+}

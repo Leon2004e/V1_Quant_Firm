@@ -1,0 +1,161 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "ea_file": "US500.cash_82_2.67.165_BUY_M15.mq5",
+    "ea_path": "C:/Users/Leon/Desktop/Business_Code/Quant_Structure/FTMO/Data_Center/Data/Strategy/Strategy_EA/US500.cash/US500.cash_82_2.67.165_BUY_M15.mq5",
+    "ea_extension": ".mq5"
+  },
+  "identity": {
+    "strategy_id": "2.67.165",
+    "symbol": "US500.cash",
+    "side": "BUY",
+    "variant_number": 82,
+    "magic_number": null,
+    "timeframe": "M15",
+    "date_block": null
+  },
+  "profile_naming": {
+    "base_name": "US500.cash_82_2.67.165_BUY_M15",
+    "exit_label": "ATR_SL26",
+    "signal_label": "BB_ATR",
+    "time_label": "0800_2000",
+    "display_name": "US500.cash_82_2.67.165_BUY_M15__ATR_SL26",
+    "extended_display_name": "US500.cash_82_2.67.165_BUY_M15__ATR_SL26__SIG_BB_ATR__TIME_0800_2000"
+  },
+  "trade_parameters": {
+    "fixed": {
+      "stop_loss_pips": null,
+      "take_profit_pips": null
+    },
+    "dynamic_coef": {
+      "stop_loss_coef": 2.6,
+      "take_profit_coef": null,
+      "trailing_stop_coef": null
+    }
+  },
+  "risk_model": {
+    "type": "coef_atr",
+    "stop_loss_coef": 2.6,
+    "take_profit_coef": null,
+    "atr": {
+      "base": "SqATR",
+      "atr_period": 15,
+      "atr_timeframe_code": 0,
+      "atr_shift": 1
+    }
+  },
+  "classification": {
+    "sl_type": "atr_coef",
+    "tp_type": "none",
+    "trailing_type": "none",
+    "exit_profile": "unknown_exit_profile",
+    "signal_family": [
+      "BB",
+      "ATR"
+    ],
+    "overlap_key": "US500.cash_BUY"
+  },
+  "money_management": {
+    "enabled": true,
+    "risk_percent": 5.0,
+    "fixed_lot": null,
+    "initial_capital": 200000.0,
+    "mm_stoploss_pips": 100,
+    "mm_max_lots": 5.0,
+    "mm_lots_if_no_mm": 1.0
+  },
+  "signal_parameters": {
+    "MACD": {
+      "fast": null,
+      "slow": null,
+      "signal": null
+    }
+  },
+  "filters": {
+    "dont_trade_on_weekends": {
+      "enabled": true,
+      "friday_close_time": "23:45",
+      "sunday_open_time": "23:45"
+    },
+    "exit_at_end_of_day": {
+      "enabled": true,
+      "time": "23:45"
+    },
+    "exit_on_friday": {
+      "enabled": true,
+      "time": "23:45"
+    },
+    "limit_time_range": {
+      "enabled": true,
+      "from": "08:00",
+      "to": "20:00"
+    },
+    "max_trades_per_day": 1
+  },
+  "checks": {
+    "has_defined_stop_loss": true,
+    "has_defined_take_profit_or_exit": true,
+    "uses_aggressive_mm": true,
+    "has_parser_uncertainty": false,
+    "has_tight_stop": false,
+    "weekend_protection": true,
+    "eod_exit": true,
+    "friday_exit": true
+  },
+  "raw_inputs": {
+    "preferredFillingType": "ORDER_FILLING_FOK",
+    "forceFillingType": false,
+    "CustomComment": "Strategy 2.67.165",
+    "MagicNumber": 0,
+    "BollingerBandsPrd1": 20,
+    "BBerPeriod1": 20,
+    "SMMAPeriod1": 14,
+    "StopLossCoef1": 2.6,
+    "MTATRPeriod1": 161,
+    "smm": "----------- Money Management - Risk Fixed % Of Account -----------",
+    "UseMoneyManagement": true,
+    "mmRiskPercent": 5.0,
+    "mmDecimals": 1,
+    "mmStopLossPips": 100,
+    "mmLotsIfNoMM": 1.0,
+    "mmMaxLots": 5.0,
+    "mmMultiplier": 1.0,
+    "mmStep": 0.01,
+    "InitialCapital": 200000.0,
+    "sdtw": "----------- Dont Trade On Weekends -----------",
+    "DontTradeOnWeekends": true,
+    "FridayCloseTime": "23:45",
+    "SundayOpenTime": "23:45",
+    "seod": "----------- Exit At End Of Day -----------",
+    "ExitAtEndOfDay": true,
+    "EODExitTime": "23:45",
+    "seof": "----------- Exit On Friday -----------",
+    "ExitOnFriday": true,
+    "FridayExitTime": "23:45",
+    "sltr": "----------- Limit Time Range -----------",
+    "LimitTimeRange": true,
+    "SignalTimeRangeFrom": "08:00",
+    "SignalTimeRangeTo": "20:00",
+    "ExitAtEndOfRange": false,
+    "OrderTypeToExit": 0,
+    "smmmdfmp": "----------- Max distance from market price -----------",
+    "LimitMaxDistanceFromMarketPrice": false,
+    "MaxDistanceFromMarketPct": 6.0,
+    "smtpd": "----------- Max Trades Per Day -----------",
+    "MaxTradesPerDay": 1,
+    "smmslpt": "----------- Min/Max SL/PT -----------",
+    "MinimumSL": 0,
+    "MinimumPT": 0,
+    "MaximumSL": 0,
+    "MaximumPT": 0,
+    "slts": "----------- Use Tick size from SQ (for CFDs) -----------",
+    "UseSQTickSize": false,
+    "MainChartTickSizeSQ": 0.01,
+    "tradeInSessionHoursOnly": true,
+    "MAX_ORDER_RETRIES": 20,
+    "OpenBarDelay": 0,
+    "slex": "----------- Order expiration time (for stocks) -----------",
+    "ExpirationTime": 0,
+    "ModifyInsteadOfReplacing": false
+  }
+}

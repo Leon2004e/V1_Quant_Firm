@@ -1,0 +1,28 @@
+{
+  "strategy_id": "EURUSD_11_1.42.105_SELL_M15",
+  "features": {
+    "strategy_id": "EURUSD_11_1.42.105_SELL_M15",
+    "trade_count_total": 533,
+    "trade_count_is": 330,
+    "trade_count_oos": 203,
+    "active_months": 56,
+    "trades_per_month": 9.517857142857142,
+    "net_profit_total": 588.94,
+    "net_profit_is": 242.94000000000008,
+    "net_profit_oos": 345.99999999999994,
+    "win_rate_total": 0.7673545966228893,
+    "win_rate_is": 0.7515151515151515,
+    "win_rate_oos": 0.7931034482758621,
+    "avg_win_total": 11.386308068459657,
+    "avg_loss_total": -32.806935483870966,
+    "payoff_ratio_total": 0.3470701514945693,
+    "expectancy_total": 1.104953095684803,
+    "expectancy_is": 0.7361818181818184,
+    "expectancy_oos": 1.7044334975369455,
+    "profit_factor_total": 1.144771709365152,
+    "profit_factor_is": 1.093526232310322,
+    "profit_factor_oos": 1.235294117647059,
+    "first_trade_time_utc": "2021-07-07T10:10:40+00:00",
+    "last_trade_time_utc": "2026-03-12T15:21:40+00:00"
+  }
+}

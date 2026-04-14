@@ -1,0 +1,11 @@
+[INFO] PROJECT_ROOT = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO
+[INFO] OUT_DIR       = C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data\Regime_Data\OHLC
+Traceback (most recent call last):
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py", line 620, in <module>
+    main()
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py", line 523, in main
+    exe = find_terminal64(FIXED_MT5_DIR)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Leon\Desktop\Business_Code\Quant_Structure\FTMO\1.Data_Center\Data_Operations\Ohcl_Generator_Loop\Ohcl_Loader.py", line 134, in find_terminal64
+    raise RuntimeError(f"terminal64.exe nicht gefunden unter: {root}")
+RuntimeError: terminal64.exe nicht gefunden unter: C:\Users\Leon\Desktop\MetaTrader 5 - Kopie - Kopie - Kopie (10) - Kopie - Kopie - Kopie - Kopie
